@@ -160,10 +160,10 @@ following list is printed on its colored pouch.}
  * Fluorescence Imaging
  * X-ray Absorption Fine Structure Spectroscopy (XAFS)
 
-&lbrack;Should we fret about color-blind readers?  Perhaps the instruments
+[ Should we fret about color-blind readers?  Perhaps the instruments
 and data booklet pages can also be labeled with symbols, for example
 Mercury, Earth, and Saturn, from the
-[astronomical symbols](http://en.wikipedia.org/wiki/Astronomical_symbols).&rbrack;
+[astronomical symbols](http://en.wikipedia.org/wiki/Astronomical_symbols). ]
 
 ## Data booklet cover
 

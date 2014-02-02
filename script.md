@@ -218,8 +218,7 @@ size by **Kirkpatrick-Baez (KB) mirrors**.  These are plates of glass polished
 very smooth and bent along their length.  *Something something
 glancing incident* which focuses t he X-ray beam to a 10 DDum spot.
 
-The HXN, SRC, XFM, and FXI beamlines at NSLS-II will perform this kind of experiment with a spot size as small as 10 nm, 1000 times smaller than the NSLS experiment shown here!  Other
-imaging beamlines include SRX, XFM, and FXI.
+At NSLS-II, the HXN, SRC, XFM, and FXI beamlines will have imaging capability. The HXN beamline will perform this kind of experiment with a 10 DDnm spot, a thousand times smaller than the NSLS experiment shown in the Log Book!
 
 A flat sample is mounted at the focal spot of the KB mirrors.  The
 incident X-rays interact with the sample, emitting secondary X-rays

@@ -82,7 +82,51 @@ Undulators are to bend magnets as lasers are to flashlights.
 
 ## Shaping magnets
 
-[I need to do some research before writing this bit of text.]
+As the electron bunches travel around the storage ring, the negatively
+charged particles repel one another, increasing the size of each
+bunch.  To maintain the small bunches required for proper operations
+of the undulators, arrays of shaping magnets are placed in many places
+around the ring.  
+
+A WW quadrupole magnet consists of four magnets arranged in a ring.
+The electron bunches travel through the center of this array of
+magnets.  The north and south poles of the four magnets are positioned
+so that each electron bunch is compressed as it travels through the
+quadrupole. 
+
+A quadrupole magnet by itself has a problem.  The electrons in a bunch
+are not all of the same energy.  Electrons with slightly more energy
+interact with the quadrupole differently than the ones that have
+slightly less energy.  This has the effect of stretching the length of
+the bunch in the direction of travel, which is bad for the operation
+of the undulators.
+
+To correct this problem, every quadrupole is paired with a WW
+sextupole magnet.  A sextupole is an arrangement of six magnets in a
+ring.  Again, the bunches travel through the center of the array.
+This kind of magnet serves to correct the problem introduced by the
+quadrupole magnet.  Together these two magnets, repeated dozens of
+times around the ring, serve to maintain the ultra small bunch sizes
+needed to make NSLS-II a world-leading synchrotron facility.
+
+
+[Comments follow:
+
+This is a good photo to print near the magnet objects and could be referred to in the text.
+
+http://www.flickr.com/photos/brookhavenlab/5589166111/sizes/l/
+
+There are 60 (need to verify that number) of these magnet rails in the
+lattice, one between each insertion device and bend.  30 bends -> 60
+magnet rails -> 120 quad/sext pairs.  Probably beyond the scope of the
+book, but there is an interesting story in the magnet rails.  They
+were assembled and aligned to micron scale tolerance in a lab almost a
+mile away from the ring.  They were transported without disrupting the
+alignment and surveyed into place, again with micron-scale precision.
+So hundreds of magnets populate the ring, each placed with a few
+microns of their proper location around a ring with a circumferance of
+about 800 meters.]
+
 
 Second spread: Beamline
 -----------------------

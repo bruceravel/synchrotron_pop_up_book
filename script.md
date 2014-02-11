@@ -63,7 +63,14 @@ ring.  The path of text will wend its way down the linac, all the way
 around the booster, down the injection line, then around the storage
 ring.}
 
-A laser strikes a diamond anode to produce a group of electrons called a "bunch." The linear accelerator increases their energy. In the booster ring, the energy of the bunches is increased to 3 UUGeV. Every minute, additional electrons are injected in order to maintain the ring current at 500 UUmA, allowing continuous operation for days. 
+A laser strikes a diamond anode to produce a group of electrons called
+a "bunch." The linear accelerator increases their energy. In the
+booster ring, the energy of the bunches is increased to 3 UUGeV. Every
+minute, additional electrons are injected in order to maintain the
+ring current at 500 UUmA.  This is called "top-off" and it allows
+continuous operation for days.  The stored electrons WW circle storage
+ring, traveling at a speed very close to the speed of light.  In this
+way, X-rays are delivered simultaneously to all the beamlines at NSLS-II.
 
 ## Bend magnet
 

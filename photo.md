@@ -19,7 +19,7 @@ be managed all at once.
 
 # Venue: NSLS #
 
- 1. Ion chamber (side and front, both head-on)
+ 1. Ion chamber (side, front, ant top, all head-on)
  2. KB mirror box (multiple angles? Open or closed?)
 
 # Venue: unknown #

@@ -49,13 +49,13 @@ initial value.  This probably had some false positives, but should be
 dominated by the actual colored portions of the buildings.  Here are
 the values:
 
-| table | degrees | color | R | G | B | hex |
-| ------ | ---------- | ------- | ------------------------------ |
-| 1 | 0 | red | 163 | 50 | 61 | A3323D |
-| 2 | 72 | blue | 44 | 85 | 130 | 2C5582 |
-| 3 | 144 | yellow | 212 | 180 | 111 | D4B46F |
-| 4 | 216 | green | 93 | 106 | 97 | 5D6A61 |
-| 5 | 288 | orange | 183 | 99 | 63 | B7633F |
+     LOB | degrees | color  | R   | G   | B   | hex    |
+     --- | ------- | ------ | --- | --- | --- | ------ |
+     1   | 0       | red    | 163 | 50  | 61  | A3323D |
+     2   | 72      | blue   | 44  | 85  | 130 | 2C5582 |
+     3   | 144     | yellow | 212 | 180 | 111 | D4B46F |
+     4   | 216     | green  | 93  | 106 | 97  | 5D6A61 |
+     5   | 288     | orange | 183 | 99  | 63  | B7633F |
 
 
 

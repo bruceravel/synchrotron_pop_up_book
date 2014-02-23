@@ -3,18 +3,22 @@
 %%
 %% Pandoc is required
 %%
+%% pdfltex --shell-espace wrappedscript.tex
+%%
 \documentclass{article}
 \usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue}
 \usepackage{fullpage}
 \usepackage{alltt}
+\usepackage{boxedminipage}
+\usepackage[usenames,dvipsnames]{color}
+\definecolor{MYgray}{gray}{0.33}
 
-\newenvironment{MYverbatim}{\begin{flushright}%
-    \begin{minipage}[h]{0.9\linewidth}%
-      \begin{alltt}}%
-      {\end{alltt}\end{minipage}\end{flushright}}
-\renewenvironment{verbatim}{\begin{MYverbatim}}{%
-    \end{MYverbatim}\ignorespacesafterend% as suggested above
-}
+\newenvironment{MYverbatim}%
+{\begin{flushright}\begin{boxedminipage}[h]{0.8\linewidth}\begin{alltt}}%
+      {\end{alltt}\end{boxedminipage}\end{flushright}}
+\renewenvironment{verbatim}{\begin{MYverbatim}\color{MYgray}}{\vspace{-2.5ex}\end{MYverbatim}}% as suggested above
+
 
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{1ex}

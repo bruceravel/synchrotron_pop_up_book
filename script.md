@@ -475,11 +475,16 @@ manage BMM, a beamline for XAFS and X-ray diffraction.
    *Alyssum murale* leaf and
  * Dr. Annie Heroux for donated the raw MX data
  * The structure of the KcsA K+ channel is from the RSCB Protein Data
-   Bank: http://dx.doi.org/10.2210/pdb1k4c/pdb
+   Bank: doi: 10.2210/pdb1k4c/pdb
  * The XAFS results are from *Scientific Reports* 3, 1050 (2012). 
-   http://dx.doi.org/10.1038/srep01050
+   doi: 10.1038/srep01050
  * The photo of the magnet rail {others?} is from the Brookhaven
-   National Laboratory photostream at http://Flickr.com
+   National Laboratory photostream at
+   http://www.flickr.com/photos/brookhavenlab/sets/72157615585907461/
+ * The National Synchrotron Light Source-II, Brookhaven National
+   Laboratory, is supported by the U.S. Department of Energy, Office
+   of Science, Office of Basic Energy Sciences, under Contract
+   No. DE-AC02-98CH10886.
 
 ## More information
 

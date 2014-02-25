@@ -38,27 +38,27 @@ Subtitle: Long Island's state-of-the-art X-ray microscope
 
 # First spread: Storage ring
 
-		The background image is a view of NSLS-II from directly
-		overhead.  Along with the text and papercraft elements
-		described below, this image will be decorated.
+        The background image is a view of NSLS-II from directly
+        overhead.  Along with the text and papercraft elements
+        described below, this image will be decorated.
 
-		The roof of the synchrotron will be decorated with a simple
-		representation of the layout of beamlines on the floor to look
-		something like this:
-		https://secure.flickr.com/photos/brookhavenlab/8576528221/sizes/l/
+        The roof of the synchrotron will be decorated with a simple
+        representation of the layout of beamlines on the floor to look
+        something like this:
+        https://secure.flickr.com/photos/brookhavenlab/8576528221/sizes/l/
 
-		The five Lab/Office Buildings have exterior color markings
-		around the doors and along the rooflines.  Below is a table of
-		their approximate colors.  The LOBs in the image will be
-		decorated accordingly.
+        The five Lab/Office Buildings have exterior color markings
+        around the doors and along the rooflines.  Below is a table of
+        their approximate colors.  The LOBs in the image will be
+        decorated accordingly.
 
-		LOB | degrees | color  | R   | G   | B   | hex    |
-		--- | ------- | ------ | --- | --- | --- | ------ |
-		1   | 0       | red    | 163 | 50  | 61  | A3323D |
-		2   | 72      | blue   | 44  | 85  | 130 | 2C5582 |
-		3   | 144     | yellow | 212 | 180 | 111 | D4B46F |
-		4   | 216     | green  | 93  | 106 | 97  | 5D6A61 |
-		5   | 288     | orange | 183 | 99  | 63  | B7633F |
+        LOB | degrees | color  | R   | G   | B   | hex    |
+        --- | ------- | ------ | --- | --- | --- | ------ |
+        1   | 0       | red    | 163 | 50  | 61  | A3323D |
+        2   | 72      | blue   | 44  | 85  | 130 | 2C5582 |
+        3   | 144     | yellow | 212 | 180 | 111 | D4B46F |
+        4   | 216     | green  | 93  | 106 | 97  | 5D6A61 |
+        5   | 288     | orange | 183 | 99  | 63  | B7633F |
 
 
 ## Overview
@@ -80,11 +80,11 @@ The National Synchrotron Light Source II (**NSLS-II**) will:
 
 ## Life of the electron bunches
 
-		This text is intended to follow a path on the page.  The
-		infield of the ring will depict, slightly above scale, the
-		linac and booster ring.  The path of text will wend its way
-		down the linac, all the way around the booster, down the
-		injection line, then around the storage ring.
+        This text is intended to follow a path on the page.  The
+        infield of the ring will depict, slightly above scale, the
+        linac and booster ring.  The path of text will wend its way
+        down the linac, all the way around the booster, down the
+        injection line, then around the storage ring.
 
 A laser strikes a diamond (WW anode) to produce a group of (WW
 electrons) called a "bunch."
@@ -103,9 +103,9 @@ simultaneously to all the beamlines at NSLS-II.
 
 ## Bend magnet
 
-		The papercraft depiction of a bend magnet is in the lower left
-		corner of this spread.  A photo of an NSLS-II bend magnet will
-		be printed near the papercraft.
+        The papercraft depiction of a bend magnet is in the lower left
+        corner of this spread.  A photo of an NSLS-II bend magnet will
+        be printed near the papercraft.
 
 The storage ring is actually a 30-sided polygon. **Bend magnets** at
 each corner steer the electron beam between straight sections.
@@ -117,9 +117,9 @@ a fourth is implied where your hand turns the wheel.
 
 ## Undulator
 
-		The papercraft depiction of an undulator is in the lower right
-		corner of this spread.  A photo of an NSLS-II undulator will
-		be printed near the papercraft.
+        The papercraft depiction of an undulator is in the lower right
+        corner of this spread.  A photo of an NSLS-II undulator will
+        be printed near the papercraft.
 
 An **undulator** is is an X-ray source which live in one of the 30
 straight sections of the ring.  It is an array of dozens of powerful
@@ -137,15 +137,15 @@ to generate X-rays (purple).
 
 ## Shaping magnets booklet
 
-		A booklet -- i.e. a two spread book with a stiff top cover and
-		bound with tape -- is in the upper right corner of this
-		spread.  Opening the booklet to its first spread displays the
-		papercraft of a quadrupole magnet.  Opening the second spread
-		displays the papercraft of the sextupole magnet.  A photo of a
-		magnet girder will be printed near the booklet.
-		
-		This will be cropped from this photo:
-		https://secure.flickr.com/photos/brookhavenlab/5589166111/sizes/l/
+        A booklet -- i.e. a two spread book with a stiff top cover and
+        bound with tape -- is in the upper right corner of this
+        spread.  Opening the booklet to its first spread displays the
+        papercraft of a quadrupole magnet.  Opening the second spread
+        displays the papercraft of the sextupole magnet.  A photo of a
+        magnet girder will be printed near the booklet.
+        
+        This will be cropped from this photo:
+        https://secure.flickr.com/photos/brookhavenlab/5589166111/sizes/l/
 
 As the electron bunches travel around the storage ring, the negatively
 charged particles repel one another, increasing the size of each
@@ -181,9 +181,9 @@ to make NSLS-II a world-leading synchrotron facility.
         The colored area in the top right corner of the right page
         represents the shild wall.  The transport pipe printed on the
         page extends from the shiled wall to the FOE.
-		
-		Text on the shield wall with an arrow pointing back toward the
-		source.
+        
+        Text on the shield wall with an arrow pointing back toward the
+        source.
 
 The shield wall protects people on the experimental floor from
 radiation in the ring tunnel.
@@ -196,9 +196,9 @@ To the source (undulator or bend magnet)
 
         Near the top of the right page
 
-		The papercraft is a box that unfolds and stands upright.
-		"First optical encolsure" is printed on the side.  A cartoon
-		of the mirrors and mono is printed on the top of the box.
+        The papercraft is a box that unfolds and stands upright.
+        "First optical encolsure" is printed on the side.  A cartoon
+        of the mirrors and mono is printed on the top of the box.
 
         A tube labeled "Transport pipe" and printed on the page
         connects the FOE to the end station.
@@ -249,15 +249,15 @@ energies to be chosen during an experiment.
 
 ## End station
 
-		The end station occupies most of the lower half of the left
-		page.  The papercraft component of the end station is two
-		walls that unfold to stand upright.  The walls are printed
-		with photos of interior and exterior end station walls from
-		NSLS-II.
+        The end station occupies most of the lower half of the left
+        page.  The papercraft component of the end station is two
+        walls that unfold to stand upright.  The walls are printed
+        with photos of interior and exterior end station walls from
+        NSLS-II.
 
-		A photo of an optical table is printed on the "floor" of the
-		end station.  This is the surface on which the reader will
-		assemble the papercraft experiments.
+        A photo of an optical table is printed on the "floor" of the
+        end station.  This is the surface on which the reader will
+        assemble the papercraft experiments.
 
 The end station is where experiments happen.  The equipment in each
 end station is specialized for a particular kind of experiment.  It is
@@ -275,11 +275,11 @@ set of equipment is used to make one of the measurements shown in the
 
 **Instrumentation pouches**
 
-		Each pouch should be colored with the color assigned to its
-		experiment.  This color coding connects the pouch to the
-		individual instruments and to the pages of the data booklet.
-		Each item in the following list is printed on its colored
-		pouch.
+        Each pouch should be colored with the color assigned to its
+        experiment.  This color coding connects the pouch to the
+        individual instruments and to the pages of the data booklet.
+        Each item in the following list is printed on its colored
+        pouch.
 
  * Macromolecular Crystallography (MX) (Color: maroon)
  * Fluorescence Imaging (Color: green)
@@ -287,16 +287,16 @@ set of equipment is used to make one of the measurements shown in the
 
 ## Data booklet cover
 
-		Lower left corner of the right page
+        Lower left corner of the right page
 
-		Print the cover of the booklet to look like an experimental
-		log book.
+        Print the cover of the booklet to look like an experimental
+        log book.
 
-		This will be a booklet in the same sense as the shaping
-		magnets booklet on the previous spread.  It will have a
-		cardboard outer cover and be bound by tape.
+        This will be a booklet in the same sense as the shaping
+        magnets booklet on the previous spread.  It will have a
+        cardboard outer cover and be bound by tape.
 
-		Big, bold text
+        Big, bold text
 
 **Log book**
 

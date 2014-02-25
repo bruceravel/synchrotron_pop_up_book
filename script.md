@@ -356,45 +356,44 @@ development of novel pharmaceuticals.
         printed on the Imaging pouch
 
 The X-rays entering the end station are focused to a very small spot
-by **Kirkpatrick-Baez (KB) mirrors**.  These are plates of glass
-polished very smooth and bent along their length.  The X-rays graze
-off the surfaces of the mirrors and their curvature focuses the X-ray
-beam to a (UU 10 um) spot.
+by **Kirkpatrick-Baez (KB) mirrors**. These are plates of glass
+polished very smooth and bent along their length. The X-rays graze off
+the surfaces of the mirrors and their curvature focuses the X-ray beam
+to a (UU 10 um) spot.
 
 At NSLS-II, the (BL HXN) beamline will have this imaging capability
 with the world's smallest spot of X-rays, (UU 10 nm), a thousand times
 smaller than the spot used at NSLS (the predecessor to NSLS-II) for
 the experiment shown in the Log Book!  Other imaging beamlines at
-NSLS-II include (BL SRX), (BL XFM), and (BL FXI).
+NSLS-II include (BL SRX), (BL XFM), (BL TES), and (BL FXI).
 
-A flat sample is mounted at the focal spot of the KB mirrors.  The
-incident X-rays interact with the sample, emitting secondary X-rays at
-energies characteristic of each element contained in the sample.  The
-**detector** is capable of detecting the intensity and the energy of
-the X-rays coming from the sample.  Each element in the sample emits
-X-rays at a characteristic energy.  In this way, the amounts of
-different elements can be measured.  By moving the sample back and
-forth in the beam, the distribution of elements can measured and
-turned into an image.
+A flat sample is mounted where the KB mirrors focus the X-rays. The
+X-ray beam interacts with the sample, which then emits X-rays at
+energies characteristic of each element contained in the sample. The
+**detector** is capable of detecting the intensity and the energy of the
+X-rays coming from the sample. In this way, the amounts of different
+elements can be measured. By moving the sample back and forth in the
+beam, the distribution of elements is turned into an image.
+
 
 #### Experiment
 
         printed in the Log Book near the data
 
-The plant (WW *Alyssum*) *murale* is a (WW hyperaccumulator) for the
-toxic metal cobalt -- it can draw cobalt out of the soil and store it
-within its leaves.  This excess of toxic cobalt is stored at the end
-of the leaf, far away from most of the plant's tissue.  Additionally,
-this plant grows star-shaped structures called (WW trichomes) made
-from calcium silicate.  These hard, mineral structures are a survival
-strategy called (WW antiherbivory) and discourage animals from wanting
-to eat the leaves.
+The plant (WW *Alyssum*) *murale* is a (WW hyperaccumulator) for the toxic
+metal cobalt -- it can draw cobalt out of the soil and store it within
+its leaves. This excess of toxic cobalt is stored at the tip of the
+leaf, far away from most of the plant's (WW photosynthetic)
+tissues. Additionally, this plant grows star-shaped structures called
+(WW trichomes) made from (WW calcite). These hard, mineral structures
+are a survival strategy called (WW antiherbivory) and discourage
+animals from wanting to eat the leaves.
 
 By measuring the signals from the cobalt and calcium atoms as the leaf
 is moved under the X-ray beam, the distribution of those atoms
-throughout the leaf is converted to a colored map.  By overlapping the
-distributions of the different metals, an image of the leaf structure
-plus the elemental composition is made.
+throughout the leaf is converted to a colored map. By overlapping the
+distributions of the different metals, we see the locations of the
+metals in the leaf.
 
 {Note that "Alyssum" is currently an entry in Wikipedia, but "Alyssum
 murale" is not.  Also note that *Alyssum murale* must be set in
@@ -416,7 +415,7 @@ sample. While often less precise than MX, XAFS is effective on a wider
 variety of materials, including those that are not crystalline.
 
 Beamlines for spectroscopy experiments at NSLS-II include (BL ISS),
-(BL QAS), (BL TES), (BL BMM), (BL SST), and (BL SM3).
+(BL QAS), (BL TES), (BL XFM), (BL BMM), (BL SST), and (BL SM3).
 
 #### Experiment
 

@@ -186,11 +186,11 @@ to make NSLS-II a world-leading synchrotron facility.
         source.
 
 The shield wall protects people on the experimental floor from
-radiation in the ring tunnel.
+radiation present in the ring tunnel.
 
         Text underneath the arrow
 
-To the source (undulator or bend magnet)
+This way to the source (undulator or bend magnet)
 
 ## First optical enclosure (FOE)
 
@@ -222,7 +222,7 @@ That small spot is where the X-ray beam hits the sample!
         The front of the mono, which has artwork making look like a
         mono, is a flap.  This text is printed on the flap.
 
-Lift here for more information about the monochromator
+Lift here for more information about the **monochromator**
 
         Underneath the flap is the papercraft mono.  On the back side
         of the flap is the following text.
@@ -303,7 +303,7 @@ set of equipment is used to make one of the measurements shown in the
         smaller text
 
 This book contains results of three synchrotron experiments.  Assemble
-the experiment using the contents of the corresponding
+each experiment using the contents of an
 **instrumentation pouch** then open this book to the corresponding
 page to read about the measurement and its results.
 

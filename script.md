@@ -20,9 +20,9 @@ Some notes on the format of this document:
    cover.  This text is green. 
  * **Bold text** in a description usually refers to a nearby
    papercraft element.
+ * Longer URLs will be shortened using bit.ly.
  * All other text is the actual content of the book.
 
-{Final WW, UU, and BL text colors?}
 
 # Front page
 
@@ -405,11 +405,11 @@ murale" is not.  Also note that *Alyssum murale* must be set in
 
         printed on the XAFS pouch
 
-In this kind of experiment, the **monochromator** is used to select a
+In an XAFS experiment, the **monochromator** is used to select a
 series of closely spaced energies. The intensity of the resulting
 x-ray beam is measured both before (**incident detector**) and after
-(**transmission detector**) the beam passes through the sample. The way
-in which the absorption depends on the energy of the X-rays can be
+(**transmission detector**) the beam passes through the sample. The
+way in which the absorption depends on the energy of the X-rays can be
 used to provide information about the atomic-level structure of the
 sample. While often less precise than MX, XAFS is effective on a wider
 variety of materials, including those that are not crystalline.
@@ -421,7 +421,22 @@ Beamlines for spectroscopy experiments at NSLS-II include (BL ISS),
 
         printed in the Log Book near the data
 
-{letting Scott take the first stab at this...}
+XAFS measurements are made on (WW quantum dots) used to make (WW solar
+cells).  The quantum dots in this experiment are lead sulfide
+nanocrystals about (UU 10 nm) in size which convert energy from
+sunlight into electrical current.  By tuning the size of the quantum
+dot and it elemental composition -- these dots have a small amount of
+mercury -- the properties and efficiency of the solar cell are
+controlled.
+
+The X-ray beam passes through the sample and interacts with the atoms
+in the quantum dots.  The resulting data is the oscillating waveform
+shown here.  This waveform is analyzed to show how the mercury, lead,
+and sulfer atoms stack together to form the quantum dot.  From this
+information, the ball-and-stick representation of this atomic
+structure is made.  By understanding changes in how these atoms stack
+together, the scientist can understand the behavior of the (WW quantum
+dot solar cell).
 
 # Back page
 
@@ -477,8 +492,8 @@ manage BMM, a beamline for XAFS and X-ray diffraction.
    Bank: doi: 10.2210/pdb1k4c/pdb
  * The XAFS results are from *Scientific Reports* 3, 1050 (2012). 
    doi: 10.1038/srep01050
- * The photo of the magnet rail {others?} is from the Brookhaven
-   National Laboratory photostream at
+ * The photo of the magnet rail is from the Brookhaven National
+   Laboratory photostream at
    http://www.flickr.com/photos/brookhavenlab/sets/72157615585907461/
  * The National Synchrotron Light Source-II, Brookhaven National
    Laboratory, is supported by the U.S. Department of Energy, Office

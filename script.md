@@ -340,7 +340,7 @@ one kind of atom to pass, thus maintaining a balance of (WW
 electrolytes) within the cell.  The (WW potassium ion channel) is
 composed of four copies of a protein linked in a ring.  When a
 potassium ion enters the pore at one end of the channel, the proteins
-changes shape in a manner resembling the action of the paper model
+change shape in a manner resembling the action of the paper model
 shown on the next page.  This shape change transports the ion to the
 other side of the cell wall.
 

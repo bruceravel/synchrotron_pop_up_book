@@ -381,18 +381,17 @@ beam, the distribution of elements is turned into an image.
         printed in the Log Book near the data
 
 The plant (WW *Alyssum*) *murale* is a (WW hyperaccumulator) for the toxic
-metal cobalt -- it can draw cobalt out of the soil and store it within
+metal (WW cobalt) -- it can draw cobalt out of the soil and store it within
 its leaves. This excess of toxic cobalt is stored at the tip of the
 leaf, far away from most of the plant's (WW photosynthetic)
 tissues. Additionally, this plant grows star-shaped structures called
-(WW trichomes) made from (WW calcite). These hard, mineral structures
-are a survival strategy called (WW antiherbivory) and discourage
-animals from wanting to eat the leaves.
+(WW trichomes) made from (WW calcite). These hard, mineral structures discourage
+animals from wanting to eat the leaves, a survival strategy called (WW antiherbivory).
 
-By measuring the signals from the cobalt and calcium atoms as the leaf
+By measuring the signals from the cobalt and (WW calcium) atoms as the leaf
 is moved under the X-ray beam, the distribution of those atoms
-throughout the leaf is converted to a colored map. By overlapping the
-distributions of the different metals, we see the locations of the
+throughout the leaf is converted to a colored map. By comparing the distributions 
+of the different metals to the visual image (shown in grey), we see the locations of the
 metals in the leaf.
 
 {Note that "Alyssum" is currently an entry in Wikipedia, but "Alyssum

@@ -121,14 +121,14 @@ a fourth is implied where your hand turns the wheel.
         corner of this spread.  A photo of an NSLS-II undulator will
         be printed near the papercraft.
 
-An **undulator** is is an X-ray source which live in one of the 30
+An **undulator** is an X-ray source which lives in one of the 30
 straight sections of the ring.  It is an array of dozens of powerful
 magnets (shown in red and blue).  Each pair of magnets generates
-X-rays by deflecting electrons.  The magnets are carefully arranged so
-that each pair of magnets generates X-rays that reinforce the X-rays
-from previous pairs, resulting in a massive amplification of the
-intensity at specific energies.  The energy of the X-rays can be
-chosen by adjusting the size of the gap between the magnet arrays,
+X-rays by deflecting the electron bunches.  The magnets are carefully
+arranged so that each pair of magnets generates X-rays that reinforce
+the X-rays from previous pairs, resulting in a massive amplification
+of the intensity at specific energies.  The energy of the X-rays can
+be chosen by adjusting the size of the gap between the magnet arrays,
 much like tuning a radio to select a particular station.  An undulator
 is to a bend magnet as a laser is to a flashlight.
 
@@ -234,14 +234,14 @@ typically made using very pure (WW silicon crystals), although other
 materials may also be used.  For lower energy X-rays, a (WW
 diffraction grating) is used instead of a crystal.
 
-Both crystals and gratings work like a prism, separating a "white"
-beam of X-rays into X-rays of different energies.  This is like a
-prism, which separates the colors of visible light.  By choosing the
-orientation of the crystal or grating, a specific energy of X-ray can
-be made to hit the second crystal. The second crystal redirects the
-X-rays of the chosen energy towards the end station.  The orientation
-of the crystal or grating is computer-controlled, allowing different
-energies to be chosen during an experiment.
+Both crystals and gratings work to separate a "white" beam of X-rays
+into X-rays of different energies.  This is like a prism, which
+separates the colors of visible light.  By choosing the orientation of
+the crystal or grating, a specific energy of X-ray can be made to hit
+the second crystal. The second crystal redirects the X-rays of the
+chosen energy towards the end station.  The orientation of the crystal
+or grating is computer-controlled, allowing different energies to be
+chosen during an experiment.
 
         The pull tab displays the mono crystals in two orientations.
         The two orientations are labeled "Low energy" and "High
@@ -359,7 +359,7 @@ The X-rays entering the end station are focused to a very small spot
 by **Kirkpatrick-Baez (KB) mirrors**. These are plates of glass
 polished very smooth and bent along their length. The X-rays graze off
 the surfaces of the mirrors and their curvature focuses the X-ray beam
-to a (UU 10 um) spot.
+to a spot of (UU 10 um) or smaller.
 
 At NSLS-II, the (BL HXN) beamline will have this imaging capability
 with the world's smallest spot of X-rays, (UU 10 nm), a thousand times
@@ -436,7 +436,7 @@ and sulfer atoms stack together to form the quantum dot.  From this
 information, the ball-and-stick representation of this atomic
 structure is made.  By understanding changes in how these atoms stack
 together, the scientist can understand the behavior of the (WW quantum
-dot solar cell).
+dot solar cell), leading to better solar cells for commercial products.
 
 # Back page
 

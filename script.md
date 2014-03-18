@@ -335,24 +335,23 @@ including (BL AMX), (BL FMX), (BL NYX), and (BL SM3).
 
         printed in the Log Book near the data
 
-An (WW ion channel) is a passage through a cell wall that allows only
-one kind of atom to pass, thus maintaining a balance of (WW
-electrolytes) within the cell.  The (WW potassium ion channel) is
-composed of four copies of a protein linked in a ring.  When a
-potassium ion enters the pore at one end of the channel, the proteins
-change shape in a manner resembling the action of the paper model
-shown on the next page.  This shape change transports the ion to the
-other side of the cell wall.
+When tiny crystals of a protein are exposed to X-rays,
+the rays undergo (WW diffraction), forming a pattern of dots
+like the one shown at right, which can be used to determine
+the protein’s structure. 
 
-Tiny crystals of the protein are suspended in a special liquid, a drop
-of which is placed is a sample holder which looks like the eye of a
-needle.  This drop of protein solution is mounted on the
-**goniometer**, frozen in the **cryostream**, and exposed to the
-X-rays.
+An (WW ion channel) is a passage through a cell wall that allows
+only one kind of atom to pass, maintaining a balance of (WW electrolytes)
+within the cell. The (WW potassium ion channel) (lift the diffraction
+pattern up to see it!) is composed of four copies of a protein linked
+in a ring. When a potassium ion enters the pore at one end of the
+channel, the proteins change shape in a manner a bit like the paper
+model shown on the next page. This shape change transports the ion
+to the other side of the cell wall.
 
 Work performed at NSLS (the predecessor to NSLS-II) on this protein
-lead to the 2003 Nobel Prize in chemistry.  A deep understanding of
-the behavior of ion channels like this one opens new prospects for the
+led to the 2003 Nobel Prize in chemistry. A deep understanding of the
+behavior of ion channels like this one opens new prospects for the
 development of novel pharmaceuticals.
 
 ### Fluorescence imaging

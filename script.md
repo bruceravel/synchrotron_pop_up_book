@@ -320,7 +320,7 @@ page to read about the measurement and its results.
 
         Printed on the MX pouch
 
-A tiny crystal of a protein or other large molecule is mounted at the
+Tiny crystals of a protein or other large molecule are mounted at the
 center of the **goniometer**, which rotates the sample in front of the
 X-ray beam.  The X-rays scatter from the sample to create a pattern of
 spots on the **detector**.  By tracking this pattern as the sample
@@ -343,6 +343,12 @@ potassium ion enters the pore at one end of the channel, the proteins
 change shape in a manner resembling the action of the paper model
 shown on the next page.  This shape change transports the ion to the
 other side of the cell wall.
+
+Tiny crystals of the protein are suspended in a special liquid, a drop
+of which is placed is a sample holder which looks like the eye of a
+needle.  This drop of protein solution is mounted on the
+**goniometer**, frozen in the **cryostream**, and exposed to the
+X-rays.
 
 Work performed at NSLS (the predecessor to NSLS-II) on this protein
 lead to the 2003 Nobel Prize in chemistry.  A deep understanding of

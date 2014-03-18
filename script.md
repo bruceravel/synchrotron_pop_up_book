@@ -491,8 +491,8 @@ manage BMM, a beamline for XAFS and X-ray diffraction.
         boxed text
 
  * Dr. Ryan Tappero donated the optical and flourescence images of the
-   *Alyssum murale* leaf and
- * Dr. Annie Heroux for donated the raw MX data
+   *Alyssum murale* leaf and for the photo of the imagin experiment
+ * Dr. Annie Heroux donated the raw MX data
  * The structure of the KcsA K+ channel is from the RSCB Protein Data
    Bank: doi: 10.2210/pdb1k4c/pdb
  * The XAFS results are from *Scientific Reports* 3, 1050 (2012). 

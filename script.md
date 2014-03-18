@@ -421,20 +421,20 @@ Beamlines for spectroscopy experiments at NSLS-II include (BL ISS),
         printed in the Log Book near the data
 
 XAFS measurements are made on (WW quantum dots) used to make (WW solar
-cells).  The quantum dots in this experiment are lead sulfide
+cells).  The quantum dots in this experiment are (WW lead(II) sulfide)
 nanocrystals about (UU 10 nm) in size which convert energy from
 sunlight into electrical current.  By tuning the size of the quantum
 dot and it elemental composition -- these dots have a small amount of
-mercury -- the properties and efficiency of the solar cell are
+(WW mercury) -- the properties and efficiency of the solar cell are
 controlled.
 
 The X-ray beam passes through the sample and interacts with the atoms
 in the quantum dots.  The resulting data is the oscillating waveform
-shown here.  This waveform is analyzed to show how the mercury, lead,
-and sulfer atoms stack together to form the quantum dot.  From this
-information, the ball-and-stick representation of this atomic
-structure is made.  By understanding changes in how these atoms stack
-together, the scientist can understand the behavior of the (WW quantum
+shown here.  This waveform is analyzed to show how the mercury, (WW lead),
+and (WW sulfur) atoms stack together to form the quantum dot, leading to the 
+ball-and-stick representation you can see at right by lifting the data. 
+By understanding changes in how these atoms stack
+together, scientists can understand the behavior of the (WW quantum
 dot solar cell), leading to better solar cells for commercial products.
 
 # Back page

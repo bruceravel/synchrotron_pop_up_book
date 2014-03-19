@@ -1,6 +1,6 @@
 This folder contains mock-ups of beamline photos to be slipped into
 each of the experiment pouches.  The idea is that the photo will help
-contextualize the papercraft hutch instruments.
+contextualize the papercraft hutch instruments.  See Issue #40 
 
 Each photo will be printed two-sided, with the photo on the recto and
 an annotated thumbnail on the verso.  Each photo is intended to be

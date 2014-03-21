@@ -121,7 +121,7 @@ a fourth is implied where your hand turns the wheel.
         corner of this spread.  A photo of an NSLS-II undulator will
         be printed near the papercraft.
 
-An **undulator** is an X-ray source which lives in one of the 30
+An **undulator** is an X-ray source located in one of the 30
 straight sections of the ring.  It is an array of dozens of powerful
 magnets (shown in red and blue).  Each pair of magnets generates
 X-rays by deflecting the electron bunches.  The magnets are carefully
@@ -133,7 +133,8 @@ much like tuning a radio to select a particular station.  An undulator
 is to a bend magnet as a laser is to a flashlight.
 
 Pull the tab below to see an undulator cause an electron bunch (green)
-to generate X-rays (purple).
+to generate X-rays (purple). (Note: In an actual undulator, the electrons 
+oscillate perpendicular to the direction shown here.)
 
 ## Shaping magnets booklet
 

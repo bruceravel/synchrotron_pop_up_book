@@ -166,11 +166,11 @@ slightly less energy.  This has the effect of stretching the length of
 the bunch in the direction of travel, which is bad for the operation
 of the undulators.
 
-To correct this problem, every quadrupole is paired with a (WW
-sextupole magnet).  A sextupole is an arrangement of six magnets in a
+To correct this problem, every quadrupole is paired with a **sextupole magnet**.  
+A sextupole is an arrangement of six magnets in a
 ring.  Again, the bunches travel through the center of the sextupole
 array and the problem introduced by the quadrupole magnet gets
-corrected.  Together these two magnets, repeated dozens of times
+corrected.  Together these two kinds of magnets, repeated dozens of times
 around the ring, serve to maintain the ultra small bunch size required
 to make NSLS-II a world-leading synchrotron facility.
 

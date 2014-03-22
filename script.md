@@ -153,7 +153,7 @@ charged particles repel one another, increasing the size of each
 bunch.  To maintain the small bunches required for proper operation of
 the undulators, arrays of shaping magnets are placed around the ring.
 
-A (WW quadrupole magnet) has four powerful magnets arranged in a ring.
+A **quadrupole magnet** has four powerful magnets arranged in a ring.
 The electron bunches travel through the center of this array of
 magnets.  The north and south poles of the four magnets are positioned
 so that each electron bunch is compressed as it travels through the

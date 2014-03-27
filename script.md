@@ -123,7 +123,8 @@ a fourth is implied where your hand turns the wheel.
 
 An **undulator** is an X-ray source located in one of the 30
 straight sections of the ring.  It is an array of dozens of powerful
-magnets (shown in red and blue).  Each pair of magnets generates
+magnets (with north and south poles shown in blue and red below). 
+Each pair of magnets generates
 X-rays by deflecting the electron bunches.  The magnets are carefully
 arranged so that each pair of magnets generates X-rays that reinforce
 the X-rays from previous pairs, resulting in a massive amplification

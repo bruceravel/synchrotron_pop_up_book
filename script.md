@@ -515,7 +515,7 @@ manage BMM, a beamline for XAFS and X-ray diffraction.
    in this book.
 
  * Words in (WW blue text) can be used as search terms to find
-   more information on Wikipediea  
+   more information on Wikipedia  
 
  * Words in **bold** refer to items illustrated nearby on the page. Many 
    of these terms also have entries on Wikipedia.

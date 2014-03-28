@@ -98,7 +98,7 @@ Every minute, additional electrons are injected in order to maintain
 the ring current at (UU 500 mA), allowing continuous operation for
 days.  The stored electrons circle the (WW storage ring), traveling
 very close to the speed of light.  As the electrons pass through bend
-magents and undulators, X-rays are created and delivered
+magents and undulators, (WW X-rays) are created and delivered
 simultaneously to all the beamlines at NSLS-II.
 
 ## Bend magnet
@@ -510,13 +510,16 @@ manage BMM, a beamline for XAFS and X-ray diffraction.
 
         boxed text
 
- * NSLS-II homepage: Go to http://bnl.gov/ps/nsls2/beamlines/ to find
+ * NSLS-II homepage: Go to bnl.gov/ps/nsls2/beamlines/ to find
    out about all NSLS-II beamlines, including the ones (BL mentioned)
    in this book.
 
  * Words in (WW blue text) can be used as search terms to find
-   more information at http://Wikipedia.com   
+   more information on Wikipediea  
+
+ * Words in **bold** refer to items illustrated nearby on the page. Many 
+   of these terms also have entries on Wikipedia.
 
  * Do you need to replace a part of this book?  Would you like to
    build your own copy of this book?  Visit us at:
-   http://bruceravel.github.io/synchrotron_pop_up_book/
+   bruceravel.github.io/synchrotron_pop_up_book/

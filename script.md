@@ -382,7 +382,7 @@ and the energy of the X-rays coming from the sample. In this way, the
 amounts of different elements can be measured. By moving the sample
 back and forth in the beam, the distribution of elements can be
 compared to a photograph taken by the **optical camera (4)** which
-also points at the sample..
+also points at the sample.
 
 Imaging beamlines at NSLS-II include (BL HXN), (BL SRX), (BL XFM), (BL
 TES), and (BL FXI).

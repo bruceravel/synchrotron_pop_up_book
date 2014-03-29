@@ -215,7 +215,7 @@ The **collimating mirror** removes divergence from the beam so that
 all rays exiting that mirror are parallel.  The **monochromator**
 filters the light, allowing only the energy required for the
 experiment to continue down the beam path.  The **focusing mirror**
-focuses the X-ray beam onto a small spot in the **end station** where
+focuses the X-ray beam on to a small spot in the **end station** where
 the experiment is performed.
 
 ## Monochromator
@@ -375,7 +375,7 @@ polished very smooth and bent along their length. The X-rays graze off
 the surfaces of the mirrors and their curvature focuses the X-ray beam
 to a spot of (UU 10 um) or smaller.
 
-The X-ray beam is focused onto the **sample (1)**, which scatters
+The X-ray beam is focused on to the **sample (1)**, which scatters
 X-rays at energies characteristic of each (WW element) contained in
 the sample. The **detector (3)** is capable of detecting the intensity
 and the energy of the X-rays coming from the sample. In this way, the

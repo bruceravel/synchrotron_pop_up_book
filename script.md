@@ -345,7 +345,7 @@ the protein’s structure.
 An (WW ion channel) allows only one kind of atom to pass through a cell wall,
 maintaining a balance of (WW electrolytes)
 within the cell. The (WW potassium ion channel) (lift the diffraction
-pattern up and look beneath to see it!) consists of four copies of a protein linked
+pattern up and look beneath to see it) consists of four copies of a protein linked
 in a ring. When a potassium ion enters one end of the
 channel, the proteins change shape, like what happens to the paper model when 
 you stretch it. This shape change transports the ion
@@ -429,7 +429,7 @@ XAFS measurements are made on (WW quantum dots) used to make (WW solar
 cells).  The quantum dots in this experiment are (WW lead(II) sulfide)
 nanocrystals about (UU 10 nm) in size which convert energy from
 sunlight into electrical current.  By tuning the size of the quantum
-dot and it elemental composition -- these dots have a small amount of
+dot and its elemental composition -- these dots have a small amount of
 (WW mercury) -- the properties and efficiency of the solar cell are
 controlled.
 
@@ -437,7 +437,7 @@ The X-ray beam passes through the sample and interacts with the atoms
 in the quantum dots.  The resulting data is the oscillating waveform
 shown here.  This waveform is analyzed to show how the mercury, (WW lead),
 and (WW sulfur) atoms stack together to form the quantum dot, leading to the 
-ball-and-stick representation you can see at right by lifting the data. 
+ball-and-stick representation you can see by lifting the data. 
 By understanding changes in how these atoms stack
 together, scientists can understand the behavior of the (WW quantum
 dot solar cell), leading to better solar cells for commercial products.

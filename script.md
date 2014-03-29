@@ -322,7 +322,7 @@ page to read about the measurement and its results.
 
         Printed on the MX pouch
 
-Tiny crystals of a protein or other large molecule are mounted at the
+Tiny (WW crystals) of a (WW protein) or other large (WW molecule) are mounted at the
 center of the **goniometer**, which rotates the sample in front of the
 X-ray beam.  The X-rays scatter from the sample to create a pattern of
 spots on the **detector**.  By tracking this pattern as the sample
@@ -363,7 +363,7 @@ development of novel pharmaceuticals.
         printed on the Imaging pouch
 
 The X-rays entering the end station are focused to a very small spot
-by **Kirkpatrick-Baez (KB) mirrors**. These are plates of glass
+by **Kirkpatrick-Baez (KB) mirrors (2)**. These are plates of glass
 polished very smooth and bent along their length. The X-rays graze off
 the surfaces of the mirrors and their curvature focuses the X-ray beam
 to a spot of (UU 10 um) or smaller.
@@ -374,10 +374,10 @@ smaller than the spot used at NSLS (the predecessor to NSLS-II) for
 the experiment shown in the Log Book!  Other imaging beamlines at
 NSLS-II include (BL SRX), (BL XFM), (BL TES), and (BL FXI).
 
-A flat sample is mounted where the KB mirrors focus the X-rays. The
+A flat **sample (1)** is mounted where the KB mirrors focus the X-rays. The
 X-ray beam interacts with the sample, which then emits X-rays at
-energies characteristic of each element contained in the sample. The
-**detector** is capable of detecting the intensity and the energy of the
+energies characteristic of each (WW element) contained in the sample. The
+**detector (3)** is capable of detecting the intensity and the energy of the
 X-rays coming from the sample. In this way, the amounts of different
 elements can be measured. By moving the sample back and forth in the
 beam, the distribution of elements is turned into an image.
@@ -413,8 +413,8 @@ murale" is not.  Also note that *Alyssum murale* must be set in
 
 In an XAFS experiment, the **monochromator** is used to select a
 series of closely spaced energies. The intensity of the resulting
-x-ray beam is measured both before (**incident detector**) and after
-(**transmission detector**) the beam passes through the sample. The
+x-ray beam is measured both before (**incident detector C**) and after
+(**transmission detector A**) the beam passes through the **sample B**. The
 way in which the absorption depends on the energy of the X-rays can be
 used to provide information about the atomic-level structure of the
 sample. While often less precise than MX, XAFS is effective on a wider

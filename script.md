@@ -260,15 +260,21 @@ chosen during an experiment.
         end station.  This is the surface on which the reader will
         assemble the papercraft experiments.
 
+Conduct your own experiment!
+
+Step One: Choose one of the pouches above and read about a technique.
+
+Step Two: Remove the equipment from that pouch and slide each piece
+into its labeled slot in the end station.
+
+Step Three: Open the **Log Book** at the right to see the results of
+your experiment!
+
 The end station is where experiments happen.  The equipment in each
 end station is specialized for a particular kind of experiment.  It is
 shielded to protect researchers from the X-rays within.  An elaborate
 interlock system is used to close the end station and make the work
 area safe before the X-ray shutter can be opened.
-
-Build one of the experiments from the pouches above!  Each color coded
-set of equipment is used to make one of the measurements shown in the
-**log book**.
 
 ## Instrumentation pouches
 

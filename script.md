@@ -368,38 +368,36 @@ polished very smooth and bent along their length. The X-rays graze off
 the surfaces of the mirrors and their curvature focuses the X-ray beam
 to a spot of (UU 10 um) or smaller.
 
-At NSLS-II, the (BL HXN) beamline will have this imaging capability
-with the world's smallest spot of X-rays, (UU 10 nm), a thousand times
-smaller than the spot used at NSLS (the predecessor to NSLS-II) for
-the experiment shown in the Log Book!  Other imaging beamlines at
-NSLS-II include (BL SRX), (BL XFM), (BL TES), and (BL FXI).
+The X-ray beam is focused onto the **sample (1)**, which scatters
+X-rays at energies characteristic of each (WW element) contained in
+the sample. The **detector (3)** is capable of detecting the intensity
+and the energy of the X-rays coming from the sample. In this way, the
+amounts of different elements can be measured. By moving the sample
+back and forth in the beam, the distribution of elements can be
+compared to a photograph taken by the **optical camera (4)** which
+also points at the sample..
 
-A flat **sample (1)** is mounted where the KB mirrors focus the X-rays. The
-X-ray beam interacts with the sample, which then emits X-rays at
-energies characteristic of each (WW element) contained in the sample. The
-**detector (3)** is capable of detecting the intensity and the energy of the
-X-rays coming from the sample. In this way, the amounts of different
-elements can be measured. By moving the sample back and forth in the
-beam, the distribution of elements is turned into an image.
-
+Imaging beamlines at NSLS-II include (BL HXN), (BL SRX), (BL XFM), (BL
+TES), and (BL FXI).
 
 #### Experiment
 
         printed in the Log Book near the data
 
-The plant (WW *Alyssum*) *murale* is a (WW hyperaccumulator) for the toxic
-metal (WW cobalt) -- it can draw cobalt out of the soil and store it within
-its leaves. This excess of toxic cobalt is stored at the tip of the
-leaf, far away from most of the plant's (WW photosynthetic)
-tissues. Additionally, this plant grows star-shaped structures called
-(WW trichomes) made from (WW calcite). These hard, mineral structures discourage
-animals from wanting to eat the leaves, a survival strategy called (WW antiherbivory).
+The plant (WW *Alyssum*) *murale* is a (WW hyperaccumulator) for the
+toxic metal (WW cobalt) -- it can draw cobalt out of the soil and
+store it within its leaves. This excess of toxic cobalt is stored at
+the tip of the leaf, far away from the rest of the plant's tissues.
+Additionally, this plant grows star-shaped structures called (WW
+trichomes) made from (WW calcite). These hard, mineral structures
+discourage animals from wanting to eat the leaves, a survival strategy
+called (WW antiherbivory).
 
-By measuring the signals from the cobalt and (WW calcium) atoms as the leaf
-is moved under the X-ray beam, the distribution of those atoms
-throughout the leaf is converted to a colored map. By comparing the distributions 
-of the different metals to the visual image (shown in grey), we see the locations of the
-metals in the leaf.
+By measuring the signals from the cobalt (shown in blue) and (WW
+calcium) (shown in green) atoms as the leaf is moved under the X-ray
+beam, colored maps are made of the locations of those atoms throughout
+the leaf.  Compare the locations of the two metals to the photograph
+(shown in grey).
 
 {Note that "Alyssum" is currently an entry in Wikipedia, but "Alyssum
 murale" is not.  Also note that *Alyssum murale* must be set in

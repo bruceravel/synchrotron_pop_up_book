@@ -304,8 +304,9 @@ set of equipment is used to make one of the measurements shown in the
         smaller text
 
 This book contains results of three synchrotron experiments.  Assemble
-each experiment using the contents of an
-**instrumentation pouch** then open this book to the corresponding
+each experiment by placing the contents of an
+**instrumentation pouch** (at the top of the page at left) in to the
+**end station** (bottom of the page at left), then open this book to the corresponding
 page to read about the measurement and its results.
 
         The pages will be color coded to correspond to the experiments
@@ -341,13 +342,13 @@ the rays undergo (WW diffraction), forming a pattern of dots
 like the one shown at right, which can be used to determine
 the protein’s structure. 
 
-An (WW ion channel) is a passage through a cell wall that allows
-only one kind of atom to pass, maintaining a balance of (WW electrolytes)
+An (WW ion channel) allows only one kind of atom to pass through a cell wall,
+maintaining a balance of (WW electrolytes)
 within the cell. The (WW potassium ion channel) (lift the diffraction
-pattern up to see it!) is composed of four copies of a protein linked
-in a ring. When a potassium ion enters the pore at one end of the
-channel, the proteins change shape in a manner a bit like the paper
-model shown on the next page. This shape change transports the ion
+pattern up and look beneath to see it!) consists of four copies of a protein linked
+in a ring. When a potassium ion enters one end of the
+channel, the proteins change shape, like what happens to the paper model when 
+you stretch it. This shape change transports the ion
 to the other side of the cell wall.
 
 Work performed at NSLS (the predecessor to NSLS-II) on this protein

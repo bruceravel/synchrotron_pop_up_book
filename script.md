@@ -401,7 +401,7 @@ discourage animals from wanting to eat the leaves, a survival strategy
 called (WW antiherbivory).
 
 By measuring the signals from the cobalt (shown in blue) and (WW
-calcium) (shown in green) atoms as the leaf is moved under the X-ray
+calcium) (shown in yellow-green) atoms as the leaf is moved under the X-ray
 beam, colored maps are made of the locations of those atoms throughout
 the leaf.  Compare the locations of the two metals to the photograph
 (shown in grey).

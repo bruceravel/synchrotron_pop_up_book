@@ -15,12 +15,11 @@ Some notes on the format of this document:
  * (UU Text in parens) with the "UU" marker indicates a unit of
    measure, which will be explained on the back cover.  This text is
    red.
- * (BL Text in parens) with the "BL" marker indicates a beamline
-   acronym.  There will be links to further information on the bank
-   cover.  This text is green. 
  * **Bold text** in a description usually refers to a nearby
    papercraft element.
- * Longer URLs will be shortened using bit.ly.
+ * URLs in the printed material are written without the leading
+   `http://`, which is included here so  that proper links are created
+   from the markdown source.
  * All other text is the actual content of the book.
 
 
@@ -456,75 +455,96 @@ dot solar cell), leading to better solar cells for commercial products.
 
         Top of page, fairly big font
 
-What is a synchrotron?  How are X-rays made?  What kinds of
-experiments do scientists do at a synchrotron?  Learn all about the
-National Synchrotron Light Source II in the funnest way possible --
-with a pop-up book!  See in 3D how undulators make X-rays, how magnets
-shape electron bunches, and how X-ray experiments are made.  When you
-are done with this book, learn more about NSLS-II at:
-http://bnl.gov/ps/nsls2/about-NSLS-II.asp
+How are X-rays made?  
+
+What is a synchrotron?  
+
+What kinds of experiments do scientists do there?  
+
+Learn all about the National Synchrotron Light Source II in an
+entertaining way -- with a pop-up book!  See in 3D how undulators make
+X-rays, how magnets shape electron bunches, and how X-ray experiments
+are performed.  When you are done with this book, learn more about
+NSLS-II at: http://bnl.gov/ps/nsls2/about-NSLS-II.asp
  
 ## Biographies
 
         Photos of Linnea, Scott, and Bruce with short bios
 
-Linnea Russell is a student at Sarah Lawrence College.  She plans to
-pursue a career in medical illustration.
-
-Scott Calvin is a professor of physics at Sarah Lawrence College where
-he teaches classes like "Steampunk Physics" and "Rocket Science".
-
 Bruce Ravel is a physicist with the National Institute of Standards
 and Technology, which is building three beamlines at NSLS-II.  He will
 manage BMM, a beamline for XAFS and X-ray diffraction.
+
+Linnea Russell is pursuing a career in medicine.  She is interested in
+the intersection of science and art.  She is an avid rock climber.
+
+Scott Calvin is a professor of physics at Sarah Lawrence College where
+he teaches classes like Steampunk Physics.  He is also the author of a
+textbook on XAFS.
+
+## Useful Stuff
+
+        boxed text
+
+ * Go to http://bnl.gov/ps/nsls2/beamlines/ to find
+   out about all NSLS-II beamlines, including the ones mentioned
+   in this book.
+
+ * Words in (WW blue text) can be used as search terms to find
+   more information on Wikipedia  .
+
+ * Words in **bold** refer to items illustrated nearby on the page. Many 
+   of these terms also have entries on Wikipedia.
+
+ * the components of this book may seem like they're made of paper,
+   but most of them are actually flexible plastic.  As components are
+   folded and unfolded, they may lose their shape -- don't be afraid
+   to re-crease them to restore the desired shape.  Likewise, don't be
+   afraid of opening the pages in the shaping magnet book flat, or of
+   stretching the ion channel.  This stuff is pretty sturdy!
+
+ * Do you need to replace a part of this book?  Would you like to
+   build your own copy of this book?  Visit us at:
+   bruceravel.github.io/synchrotron_pop_up_book/
 
 
 ## Units
 
         boxed text (or similar) with color/font link to units in text
 
- * 3 GeV = 3 giga (million) electron volts, eV is a unit of electron
-   energy. The electrons in an ordinary spark from static electricity
-   in your home have energies around 0.00001 GeV
- * 500 mA = 500 milliamperes, Ampere is a unit of electrical
-   current. 500 mA is typical of the current through a household light
-   bulb.
- * 10 um = 10 micrometers, one tenth the width of a human hair
- * 10 nm = 10 nanometers, one tenth the size of a typical virus
+ * 3 GeV: 3 giga (billion) electron volts, a unit of energy. The
+   electrons in an ordinary spark from static electricity in your home
+   have energies around 0.00001 GeV.
+ * 500 mA: 500 milliamperes, a unit of electrical current. 500 mA is
+   typical of the current through a household light bulb.
+ * 10 um: 10 micrometers is one tenth the width of a human hair.
+ * 40 meters is about the length of two train cars.
 
 ## Acknowledgments
 
         boxed text
 
  * Dr. Ryan Tappero donated the optical and flourescence images of the
-   *Alyssum murale* leaf and for the photo of the imagin experiment
+   *Alyssum murale* leaf and for the photo of the imaging experiment
  * Dr. Annie Heroux donated the raw MX data
- * The structure of the KcsA K+ channel is from the RSCB Protein Data
-   Bank: doi: 10.2210/pdb1k4c/pdb
- * The XAFS results are from *Scientific Reports* 3, 1050 (2012). 
+ * The structure of the ion channel is from the RSCB Protein Data
+   Bank doi: 10.2210/pdb1k4c/pdb
+ * The XAFS results are from *Scientific Reports* 3, 1050 (2012)
    doi: 10.1038/srep01050
- * The photo of the magnet rail is from the Brookhaven National
-   Laboratory photostream at
-   http://www.flickr.com/photos/brookhavenlab/sets/72157615585907461/
+ * The photo on the cover of the shaping magnets booklet and the image
+   of the NSLS-II on the cover are licensed under a Creative Commons
+   Attribution-NonCommercial-NoDerivs 2.0 Generic (CC BY-NC-ND 2.0)
+   license and are provided courtesy of Brookhaven National
+   Laboratory http://creativecommons.org/licenses/by-nc-nd/2.0/legalcode
+ * The background image of NSLS-II used on the first two pages is
+   Google imagery.
  * The National Synchrotron Light Source-II, Brookhaven National
    Laboratory, is supported by the U.S. Department of Energy, Office
    of Science, Office of Basic Energy Sciences, under Contract
    No. DE-AC02-98CH10886.
 
-## More information
+## License
 
-        boxed text
-
- * NSLS-II homepage: Go to bnl.gov/ps/nsls2/beamlines/ to find
-   out about all NSLS-II beamlines, including the ones (BL mentioned)
-   in this book.
-
- * Words in (WW blue text) can be used as search terms to find
-   more information on Wikipedia  
-
- * Words in **bold** refer to items illustrated nearby on the page. Many 
-   of these terms also have entries on Wikipedia.
-
- * Do you need to replace a part of this book?  Would you like to
-   build your own copy of this book?  Visit us at:
-   bruceravel.github.io/synchrotron_pop_up_book/
+Except where otherwise noted, this work is licensed under a Creative
+Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+license http://creativecommons.org/licenses/by-sa/4.0/legalcode

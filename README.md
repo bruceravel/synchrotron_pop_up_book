@@ -23,8 +23,10 @@ them, and follow the [construction instructions](instructions.md).
 **Do you want to improve on the book or modify it for your own
 needs?** Download [the Photoshop save files](photoshop.md).
 
+## Preview of the pop-up book
 
-[Video of Scott Calvin walking through the book](http://youtu.be/Q1fkeMXME_0)
+ * [A quick walkthrough in pictures](walkthrough.md)
+ * [Video of Scott Calvin walking through the book](http://youtu.be/Q1fkeMXME_0)
 
 ![CC BY-SA 4.0](88x31.png)
 This book is licensed under a [Creative Commons Attribution ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/legalcode)

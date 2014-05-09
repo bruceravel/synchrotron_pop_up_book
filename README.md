@@ -16,3 +16,6 @@ be printed in full color and two-sided.  The repository will contain
 instructions (likely in the form of a markdown file, perhaps with
 images further explaining the construction details) for assembling a
 copy of the pop-up book.
+
+![CC BY-SA 4.0](88x31.png)
+This book is licensed under a [Creative Commons Attribution ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/legalcode)

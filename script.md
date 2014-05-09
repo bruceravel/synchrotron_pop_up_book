@@ -15,6 +15,9 @@ Some notes on the format of this document:
  * (UU Text in parens) with the "UU" marker indicates a unit of
    measure, which will be explained on the back cover.  This text is
    red.
+ * (BL Text in parens) with the "BL" marker indicates a beamline at
+   NSLS-II.  In the printed materials, no special font or color is
+   used.
  * **Bold text** in a description usually refers to a nearby
    papercraft element.
  * URLs in the printed material are written without the leading
@@ -25,14 +28,15 @@ Some notes on the format of this document:
 
 # Front page
 
+The Photon Sciences Users' Executive Committee at Brookhaven National
+Laboratory presents
+
 Title: National Synchrotron Light Source II
 
 Subtitle: Long Island's state-of-the-art X-ray microscope
 
- * **Design and Artwork by:** Linnea Russell
- * **Concept and Text by:** Scott Calvin and Bruce Ravel
- * **Produced by:** The Photon Sciences Users' Executive Committee at
-   Brookhaven National Laboratory
+ * Design and Artwork by Linnea Russell
+ * Concept and Text by Scott Calvin and Bruce Ravel
 
 
 # First spread: Storage ring
@@ -106,7 +110,7 @@ simultaneously to all the beamlines at NSLS-II.
         corner of this spread.  A photo of an NSLS-II bend magnet will
         be printed near the papercraft.
 
-The storage ring is actually a 30-sided polygon. **Bend magnets** at
+The storage ring is actually a 30-sided polygon. Bend magnets at
 each corner steer the electron beam between straight sections.
 Whenever high-speed electrons (green) are deflected, they generate
 X-ray beams (purple) which in the NSLS-II are used for experiments.
@@ -166,13 +170,13 @@ slightly less energy.  This has the effect of stretching the length of
 the bunch in the direction of travel, which is bad for the operation
 of the undulators.
 
-To correct this problem, every quadrupole is paired with a **sextupole magnet**.  
-A sextupole is an arrangement of six magnets in a
-ring.  Again, the bunches travel through the center of the sextupole
-array and the problem introduced by the quadrupole magnet gets
-corrected.  Together these two kinds of magnets, repeated dozens of times
-around the ring, serve to maintain the ultra small bunch size required
-to make NSLS-II a world-leading synchrotron facility.
+To correct this problem, every quadrupole is paired with a **sextupole
+magnet**.  A sextupole is an arrangement of six magnets in a ring.
+Again, the bunches travel through the center of the sextupole array
+and the problem introduced by the quadrupole magnet gets corrected.
+Together these two kinds of magnets, repeated dozens of times around
+the ring, serve to maintain the ultra small bunch size required to
+make NSLS-II a world-leading synchrotron facility.
 
 
 # Second spread: Beamline
@@ -180,8 +184,8 @@ to make NSLS-II a world-leading synchrotron facility.
 ## Shield wall
 
         The colored area in the top right corner of the right page
-        represents the shild wall.  The transport pipe printed on the
-        page extends from the shiled wall to the FOE.
+        represents the shield wall.  The transport pipe printed on the
+        page extends from the shieled wall to the FOE.
         
         Text on the shield wall with an arrow pointing back toward the
         source.
@@ -216,6 +220,11 @@ filters the light, allowing only the energy required for the
 experiment to continue down the beam path.  The **focusing mirror**
 focuses the X-ray beam on to a small spot in the **end station** where
 the experiment is performed.
+
+        Beneath the transport pipe is a scale bar showing the distance
+        from the shield wall to the end station.  It is labeled with:
+
+typically 40 meters from shield wall to end station
 
 ## Monochromator
 
@@ -259,6 +268,10 @@ chosen during an experiment.
         A photo of an optical table is printed on the "floor" of the
         end station.  This is the surface on which the reader will
         assemble the papercraft experiments.
+		
+		The first four of the following paragraphs are in boxes and
+		scattered around the end station.  The fifth paragraph is
+		printed on the floor of the end station.
 
 Conduct your own experiment!
 
@@ -288,9 +301,9 @@ area safe before the X-ray shutter can be opened.
         Each item in the following list is printed on its colored
         pouch.
 
+ * X-ray Absorption Fine Structure Spectroscopy (XAFS) (Color: blue)
  * Macromolecular Crystallography (MX) (Color: maroon)
  * Fluorescence Imaging (Color: green)
- * X-ray Absorption Fine Structure Spectroscopy (XAFS) (Color: blue)
 
 ## Data booklet cover
 
@@ -322,19 +335,60 @@ page to read about the measurement and its results.
         Each experiment requires text for the instrumentation objects
         and for the presentation of results in the log book
 
+### X-ray Absorption Fine-Structure (XAFS) Spectroscopy
+
+#### Instrumentation
+
+        printed on the XAFS pouch
+
+In an XAFS experiment, the **monochromator** is used to select a
+series of closely spaced energies. The intensity of the resulting
+x-ray beam is measured both before (**incident detector C**) and after
+(**transmission detector A**) the beam passes through the **sample
+(B)**. The way in which the absorption depends on the energy of the
+X-rays can be used to provide information about the atomic-level
+structure of the sample. While often less precise than MX, XAFS is
+effective on a wider variety of materials, including those that are
+not crystalline.
+
+Beamlines for spectroscopy experiments at NSLS-II include (BL ISS),
+(BL QAS), (BL TES), (BL XFM), (BL BMM), (BL SST), and (BL SM3).
+
+#### Experiment
+
+        printed in the Log Book near the data
+
+XAFS measurements are made on (WW quantum dots) used to make (WW solar
+cells).  The quantum dots in this experiment are (WW lead(II) sulfide)
+nanocrystals about (UU 10 nm) in size which convert energy from
+sunlight into electrical current.  By tuning the size of the quantum
+dot and its elemental composition -- these dots have a small amount of
+(WW mercury) -- the properties and efficiency of the solar cell are
+controlled.
+
+The X-ray beam passes through the sample and interacts with the atoms
+in the quantum dots.  The resulting data is the oscillating waveform
+shown here.  This waveform is analyzed to show how the mercury, (WW lead),
+and (WW sulfur) atoms stack together to form the quantum dot, leading to the 
+ball-and-stick representation you can see by lifting the data. 
+By understanding changes in how these atoms stack
+together, scientists can understand the behavior of the (WW quantum
+dot solar cell), leading to better solar cells for commercial products.
+
 ### Macromolecular crystallography
 
 #### Instrumentation
 
         Printed on the MX pouch
 
-Tiny (WW crystals) of a (WW protein) or other large (WW molecule) are mounted at the
-center of the **goniometer**, which rotates the sample in front of the
-X-ray beam.  The X-rays scatter from the sample to create a pattern of
-spots on the **detector**.  By tracking this pattern as the sample
-rotates, the atomic structure of the molecule can be determined.  A
-**cryostream** shoots extremely cold gas at the sample, freezing the
-sample, and minimizing damage caused by the intense X-ray beam.
+Tiny (WW crystals) of a (WW protein) or other large (WW molecule) are
+mounted at the center of the **goniometer (b)**, which rotates the
+sample in front of the X-ray beam.  The X-rays scatter from the sample
+to create a pattern of spots on the **detector (a)**.  By tracking
+the pattern as the sample rotates, the atomic structure of the
+molecule can be determined.  A **cryostream (c)** shoots extremely
+cold gas at the sample, freezing the sample, and minimizing damage
+caused by the intense X-ray beam.
 
 Several beamlines at NSLS-II will perform this kind of measurement,
 including (BL AMX), (BL FMX), (BL NYX), and (BL SM3).
@@ -348,14 +402,14 @@ the rays undergo (WW diffraction), forming a pattern of dots
 like the one shown at right, which can be used to determine
 the protein’s structure. 
 
-An (WW ion channel) allows only one kind of atom to pass through a cell wall,
-maintaining a balance of (WW electrolytes)
-within the cell. The (WW potassium ion channel) (lift the diffraction
-pattern up and look beneath to see it) consists of four copies of a protein linked
-in a ring. When a potassium ion enters one end of the
-channel, the proteins change shape, like what happens to the paper model when 
-you stretch it. This shape change transports the ion
-to the other side of the cell wall.
+An (WW ion channel) allows only one kind of atom to pass through a
+cell wall, maintaining a balance of (WW electrolytes) within the
+cell. The (WW potassium ion channel) (lift the diffraction pattern up
+and look beneath to see it) consists of four copies of a protein
+linked in a ring. When a potassium ion enters one end of the channel,
+the proteins change shape, like what happens to the paper model when
+you stretch it. This shape change transports the ion to the other side
+of the cell wall.
 
 Work performed at NSLS (the predecessor to NSLS-II) on this protein
 led to the 2003 Nobel Prize in chemistry. A deep understanding of the
@@ -409,44 +463,6 @@ the leaf.  Compare the locations of the two metals to the photograph
 murale" is not.  Also note that *Alyssum murale* must be set in
 *italics*.}
 
-### X-ray Absorption Fine-Structure (XAFS) Spectroscopy
-
-#### Instrumentation
-
-        printed on the XAFS pouch
-
-In an XAFS experiment, the **monochromator** is used to select a
-series of closely spaced energies. The intensity of the resulting
-x-ray beam is measured both before (**incident detector C**) and after
-(**transmission detector A**) the beam passes through the **sample B**. The
-way in which the absorption depends on the energy of the X-rays can be
-used to provide information about the atomic-level structure of the
-sample. While often less precise than MX, XAFS is effective on a wider
-variety of materials, including those that are not crystalline.
-
-Beamlines for spectroscopy experiments at NSLS-II include (BL ISS),
-(BL QAS), (BL TES), (BL XFM), (BL BMM), (BL SST), and (BL SM3).
-
-#### Experiment
-
-        printed in the Log Book near the data
-
-XAFS measurements are made on (WW quantum dots) used to make (WW solar
-cells).  The quantum dots in this experiment are (WW lead(II) sulfide)
-nanocrystals about (UU 10 nm) in size which convert energy from
-sunlight into electrical current.  By tuning the size of the quantum
-dot and its elemental composition -- these dots have a small amount of
-(WW mercury) -- the properties and efficiency of the solar cell are
-controlled.
-
-The X-ray beam passes through the sample and interacts with the atoms
-in the quantum dots.  The resulting data is the oscillating waveform
-shown here.  This waveform is analyzed to show how the mercury, (WW lead),
-and (WW sulfur) atoms stack together to form the quantum dot, leading to the 
-ball-and-stick representation you can see by lifting the data. 
-By understanding changes in how these atoms stack
-together, scientists can understand the behavior of the (WW quantum
-dot solar cell), leading to better solar cells for commercial products.
 
 # Back page
 
@@ -473,7 +489,7 @@ NSLS-II at: http://bnl.gov/ps/nsls2/about-NSLS-II.asp
 
 Bruce Ravel is a physicist with the National Institute of Standards
 and Technology, which is building three beamlines at NSLS-II.  He will
-manage BMM, a beamline for XAFS and X-ray diffraction.
+manage (BL BMM), a beamline for XAFS and X-ray diffraction.
 
 Linnea Russell is pursuing a career in medicine.  She is interested in
 the intersection of science and art.  She is an avid rock climber.

@@ -4,7 +4,7 @@ The construction team
 
 The following students of Sarah Lawrence College were on the build
 team for theconstruction of the first edition of the book.  With their
-help we assembled almost 330 copies of the book.
+help we assembled almost 330 copies of the book.  What a great team!
 
 Here's Scott demonstrating a prototype of the book to the group on the first day of construction.
 ![Scott explaining things!](images/scott_explaining.jpg)

@@ -7,4 +7,4 @@ Do something
 
 # Step 2
 
-Do somethuing else
+Do something else

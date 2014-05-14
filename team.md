@@ -47,7 +47,10 @@ We had help from a few other people as well
  * Neil Hyatt and Martin Stennett, two of Bruce's collaborators from
    University of Sheffield who were stuck at the NSLS without beam 
    over the second weekend of construction due to vacuum problems
- * Sue Wirick, Annie Heroux, and Mona Rowe who helped cross the
-   construction finish line in time for the 2014 NSLS/NSLS-II/CFN
-   annual Users' Meeting.
- 
+ * Sue Wirick, Annie Heroux, Mona Rowe, and Matt Cowan who helped
+   cross the construction finish line in time for the 2014
+   NSLS/NSLS-II/CFN annual Users' Meeting.
+   
+   
+Sue, Annie, and Mona hard at work!
+![Coming into the ho9me stretch](images/home_stretch.jpg)

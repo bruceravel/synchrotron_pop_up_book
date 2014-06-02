@@ -2,8 +2,8 @@
 The construction team
 =====================
 
-The following students of Sarah Lawrence College were on the build
-team for theconstruction of the first edition of the book.  With their
+The following students from Sarah Lawrence College were on the build
+team for the construction of the first edition of the book.  With their
 help we assembled almost 330 copies of the book.  What a great team!
 
 Here's Scott demonstrating a prototype of the book to the group on the first day of construction.
@@ -52,7 +52,7 @@ We had help from a few other people as well
    NSLS/NSLS-II/CFN annual Users' Meeting.
    
    
-Sue, Annie, and Mona hard at work!
+Here are Sue, Annie, and Mona hard at work!
 ![Coming into the home stretch](images/home_stretch.jpg)
 
 ## Photos from the first day of construction

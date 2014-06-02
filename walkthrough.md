@@ -1,9 +1,13 @@
 A quick walkthrough
 ===================
 
+![Front cover](images/frontcover.jpg)
+
+
 # Ring spread
 
-Blah blah
+![The first spread](images/firstspread.jpg)
+
 
 
 # Beamline spread

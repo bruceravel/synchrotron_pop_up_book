@@ -45,7 +45,7 @@ NSLS-II a unique place to perform scientific measurements with X-rays.
 
 The second spread depicts a typical beamline at NSLS-II.
 
-![The first spread](images/firstspread.jpg)
+![The first spread](images/secondspread.jpg)
 
 The three colored pouches in the upper left corner contain papercraft
 representations of **end station** instrumentation.  You can build

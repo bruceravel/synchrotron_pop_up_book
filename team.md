@@ -67,21 +67,31 @@ Assembling paper craft end station instruments.  These will be inserted into the
 
 ![Construction photo #2](images/construction02.jpg)
 
+----
+
 Scott teaching students how to assemble the papercraft undulator, one of the more complication pieces in the book.
 
 ![Construction photo #3](images/construction03.jpg)
+
+----
 
 A team of students assembling papercraft monochromators.
 
 ![Construction photo #4](images/construction04.jpg)
 
+----
+
 Two students atteching page 3 to the chipboard backing.
 
 ![Construction photo #5](images/construction05.jpg)
 
+----
+
 A busy table full of students assemblling different parts of the book.
 
 ![Construction photo #6](images/construction06.jpg)
+
+----
 
 Scott teaching two students how to assemble the ring walls.
 

@@ -2,6 +2,7 @@ A quick walkthrough
 ===================
 
 ![Front cover](images/frontcover.jpg) 
+![Back cover](images/backcover.jpg) 
 
 A pop-up book is meant to be played with.  This walkthrough only gives
 a sense of what the book is and how fun it is for the reader.
@@ -47,11 +48,22 @@ The second spread depicts a typical beamline at NSLS-II.
 
 ![The first spread](images/secondspread.jpg)
 
+In the lower right corner is an explanation of how a
+[monochromator](http://en.wikipedia.org/wiki/Monochromator) is used to
+select the X-ray energy to be used in an X-ray measurement.  Lift the
+cover of the monochromator to read the explanation and pull the tab to
+see the posuitions of the monochromator crystals for low and high
+energy X-rays.
+
+![Monochromator](images/mono.jpg)
+
 The three colored pouches in the upper left corner contain papercraft
 representations of **end station** instrumentation.  You can build
 your own synchrotron experiment!  Then open up the **log book** to the
 corresponding page to see the results of an example of each of the
 three measurement techniques.
+
+
 
 ## XAFS experiment
 

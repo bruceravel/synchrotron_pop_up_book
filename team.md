@@ -53,4 +53,21 @@ We had help from a few other people as well
    
    
 Sue, Annie, and Mona hard at work!
-![Coming into the ho9me stretch](images/home_stretch.jpg)
+![Coming into the home stretch](images/home_stretch.jpg)
+
+## Photos from the first day of construction
+
+![Construction photo #1](images/construction01.jpg)
+
+![Construction photo #2](images/construction02.jpg)
+
+![Construction photo #3](images/construction03.jpg)
+
+![Construction photo #4](images/construction04.jpg)
+
+![Construction photo #5](images/construction05.jpg)
+
+![Construction photo #6](images/construction06.jpg)
+
+![Construction photo #7](images/construction07.jpg)
+

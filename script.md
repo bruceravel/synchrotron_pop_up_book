@@ -521,7 +521,7 @@ textbook on XAFS.
 
  * Do you need to replace a part of this book?  Would you like to
    build your own copy of this book?  Visit us at:
-   bruceravel.github.io/synchrotron_pop_up_book/
+   http://bruceravel.github.io/synchrotron_pop_up_book/
 
 
 ## Units

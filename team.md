@@ -61,6 +61,8 @@ Assembling the bend magnet spinners.
 
 ![Construction photo #1](images/construction01.jpg)
 
+----
+
 Assembling paper craft end station instruments.  These will be inserted into the pouches.
 
 ![Construction photo #2](images/construction02.jpg)

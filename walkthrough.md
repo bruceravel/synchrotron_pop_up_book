@@ -99,7 +99,7 @@ survive exposure to the intense X-ray beam.
 
 ## Imaging experiment
 
-Finally, you can read about the fluorescence imaging technique on the
+Finally, you can read about the [fluorescence imaging](http://en.wikipedia.org/wiki/X-ray_fluorescence) technique on the
 green pouch.  Inside the pouch are the Kirkpatrick-Baez mirrors used
 to focus the X-ray beam to a spot-size below
 [10 micrometers](http://en.wikipedia.org/wiki/10_micrometers).  The

@@ -52,7 +52,7 @@ In the lower right corner is an explanation of how a
 [monochromator](http://en.wikipedia.org/wiki/Monochromator) is used to
 select the X-ray energy to be used in an X-ray measurement.  Lift the
 cover of the monochromator to read the explanation and pull the tab to
-see the posuitions of the monochromator crystals for low and high
+see the positions of the monochromator crystals for low and high
 energy X-rays.
 
 ![Monochromator](images/mono.jpg)

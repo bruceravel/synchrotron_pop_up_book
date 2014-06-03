@@ -1,6 +1,6 @@
+# A pop-up book about Long Island's State of the Art X-Ray microscope
 
- * **Presented by:** The Photon Sciences Users' Executive Committee at
-   Brookhaven National Laboratory
+ * **Presented by:** The Photon Sciences Users' Executive Committee at Brookhaven National Laboratory
  * **Design and Artwork by:** Linnea Russell
  * **Concept and Text by:** Scott Calvin and Bruce Ravel
 

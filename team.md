@@ -93,7 +93,7 @@ Yanyao, Caroline, Jasen, Brennan, Emmeline, Jacqueline, Lily, and Blaine assembl
 
 ----
 
-Scott teaching two students how to assemble the ring walls.
+Scott teaching Rebecca and Blair how to assemble the ring walls.
 
 ![Construction photo #7](images/construction07.jpg)
 

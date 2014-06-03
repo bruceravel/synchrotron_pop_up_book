@@ -19,7 +19,7 @@ Download the image files, print them, and follow the
 ### Do you want to improve on the book or modify it for your own needs?
 
 Download
-[the Photoshop save files](https://github.com/bruceravel/synchrotron_pop_up_book/blob/master/photoshop.md).
+[the Photoshop save files](https://github.com/bruceravel/synchrotron_pop_up_book/blob/master/photoshop.md) and/or fork a copy of this repository.
 
 ## Preview of the pop-up book
 

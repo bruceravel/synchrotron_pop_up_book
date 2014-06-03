@@ -5,7 +5,7 @@ Here we list the materials used in the construction of the first
 edition of the pop-up book.  This was a run of about 330 copies which
 were hand assembled with most of the work being done over the course
 of two weekends in April 2014 by Scott, Linnea, and Bruce along with a
-team of Sarah lawrence students.
+team of Sarah Lawrence students.
 
 For each part of the book, we had to make decisions about the
 materials to use.  While the book can be successfully assembled from

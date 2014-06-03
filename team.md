@@ -10,8 +10,9 @@ Here's Scott demonstrating a prototype of the book to the group on the first day
 ![Scott explaining things!](images/scott_explaining.jpg)
 
  * Adelina Sun 
- * Andy Zou
+ * Blair Mason
  * Brennan Coulter
+ * Brent Terry
  * Caroline Kjellberg 
  * Catherine Mucci
  * Emmeline Kaser
@@ -19,18 +20,17 @@ Here's Scott demonstrating a prototype of the book to the group on the first day
  * Jacqueline Muir
  * Jaime Chu 
  * Jasen Vita
- * Josephine Lenski
  * Joshua Sanguino 
  * Julia Langer
- * Keeratdeep Kaur
- * Lillian Rosner
+ * Katherine McGuire
  * Lily Huber 
+ * Michelle Johnson
  * Nia Itoh
  * Niayesh Jamshidi
  * Quiana Jones 
  * Rebecca Alpert
  * Rebecca Somogyi 
- * Sisi Liu
+ * Garnet Liu
  * Soleil Groh
  * Sydney Leed
  * Tahmid Fahim Munat 
@@ -57,37 +57,37 @@ Here are Sue, Annie, and Mona hard at work!
 
 ## Photos from the first day of construction
 
-Assembling the bend magnet spinners.
+Julia, Mucci, and Taylor assembling the bend magnet spinners.
 
 ![Construction photo #1](images/construction01.jpg)
 
 ----
 
-Assembling paper craft end station instruments.  These will be inserted into the pouches.
+Emmeline, Jacqueline, Lily, and Blaine assembling paper craft end station instruments.  These will be inserted into the pouches.
 
 ![Construction photo #2](images/construction02.jpg)
 
 ----
 
-Scott teaching students how to assemble the papercraft undulator, one of the more complication pieces in the book.
+Scott conferring with Jasen and Caroline on the assembly of the papercraft undulator, one of the more complicated pieces in the book.
 
 ![Construction photo #3](images/construction03.jpg)
 
 ----
 
-A team of students assembling papercraft monochromators.
+Gabrielle, Garnet, Rebecca, Blair, Vivi, and Nia assembling papercraft monochromators.
 
 ![Construction photo #4](images/construction04.jpg)
 
 ----
 
-Two students atteching page 3 to the chipboard backing.
+Rebecca and Quiana atteching page 3 to the chipboard backing.
 
 ![Construction photo #5](images/construction05.jpg)
 
 ----
 
-A busy table full of students assemblling different parts of the book.
+Yanyao, Caroline, Jasen, Brennan, Emmeline, Jacqueline, Lily, and Blaine assemblling various parts of the book.
 
 ![Construction photo #6](images/construction06.jpg)
 

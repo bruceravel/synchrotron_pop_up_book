@@ -81,7 +81,7 @@ Gabrielle, Garnet, Rebecca, Blair, Vivi, and Nia assembling papercraft monochrom
 
 ----
 
-Rebecca and Quiana atteching page 3 to the chipboard backing.
+Rebecca and Quiana attaching page 3 to the chipboard backing.
 
 ![Construction photo #5](images/construction05.jpg)
 

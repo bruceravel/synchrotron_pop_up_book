@@ -15,9 +15,9 @@ The first spread depicts the entire NSLS-II synchrotron.
 ![The first spread](images/firstspread.jpg)
 
 The first thing you notice is the ring itself unfolding.  Be sure to
-notive the that starts inside the ring and continues onto the interior
-wall of the ring.  A synchrotron is an electron storage ring -- this
-text explains where the electrons come from.
+notice the text that starts inside the ring and continues onto the
+interior wall of the ring.  A synchrotron is an electron storage ring
+-- this text explains where the electrons come from.
 
 In the upper left corner is some text explaining how NSLS-II will
 operate as a
@@ -37,7 +37,7 @@ for the world-leading performance of NSLS-II.
 ![Bend magnet](images/quadrupole.jpg)
 
 In the lower right corner is a pull tab explaining how undulators
-gtenerate the extremely intense, laser-light beam of X-rays that make
+gtenerate the extremely intense, laser-like beam of X-rays that make
 NSLS-II a unique place to perform scientific measurements with X-rays.
 
 ![Undulator](images/undulator.jpg)

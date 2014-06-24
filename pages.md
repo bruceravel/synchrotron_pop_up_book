@@ -71,13 +71,11 @@ paper.
 
 These contain text and backing images for the lab book.  After
 cutting, these are assembled into a small book that is then attached
-to page 4.
-
-These are to be printed two-sided and should be printed on
+to page 4.  These are to be printed two-sided and should be printed on
 tear-resistant paper.
 
-Link (front): https://s3.amazonaws.com/SynchrotronPopUpBook/Lab+Book+Front.pdf
-Link (back): https://s3.amazonaws.com/SynchrotronPopUpBook/Lab+Book+Back.pdf
+ * Link (front): https://s3.amazonaws.com/SynchrotronPopUpBook/Lab+Book+Front.pdf
+ * Link (back): https://s3.amazonaws.com/SynchrotronPopUpBook/Lab+Book+Back.pdf
 
 ### Pouches: Imaging pouch.pdf, MX pouch.pdf, XAFS pouch.pdf
 
@@ -94,9 +92,8 @@ They should be printed on tear-resistant paper.
 
 These contain two copies each of the inserts for each experimental
 pouch.  They show photographs of actual end stations and of the actual
-instrumentation represented by the papercraft versions.
-
-These are to be printed two-sided and can be printed on normal paper.
+instrumentation represented by the papercraft versions.  These are to
+be **printed two-sided** and can be printed on *normal* paper.
 
  * Link (front): https://s3.amazonaws.com/SynchrotronPopUpBook/Inserts+Front.pdf
  * Link (back): https://s3.amazonaws.com/SynchrotronPopUpBook/Inserts+Back.pdf

@@ -1,7 +1,15 @@
-Individual pages
-==================
+Individual pages for printing
+=============================
 
-These are all PDF files.
+On this page you will find links to PDF files for all parts of the
+pop-up book.  These can be printed using a color copier.  You can then
+build a copy of the book by following the *cutting instructions* and 
+[building instructions](https://github.com/bruceravel/synchrotron_pop_up_book/blob/master/instructions.md).
+Recommendations for paper choice are given below.  See
+[our materials page](https://github.com/bruceravel/synchrotron_pop_up_book/blob/master/materials.md)
+for hints about paper choice.
+
+## Individual pages
 
 ### Front and Back Cover
 
@@ -40,15 +48,15 @@ attached to page 2.  The text pages are to be **printed two-sided**
 and all and on **tear-resistant** paper.
 
  * Text and cover
- * [Text, verso](https://s3.amazonaws.com/SynchrotronPopUpBook/Shaping+Magnet+Text+B.pdf)
+ * [Text, back side](https://s3.amazonaws.com/SynchrotronPopUpBook/Shaping+Magnet+Text+B.pdf)
  * [Magnets](https://s3.amazonaws.com/SynchrotronPopUpBook/Shaping+Magnets.pdf)
 
 ### Bend magnet
 
-This page contains the parts of the bend magent spinner.  (One of the
-experiment components for the XAFS pouch is also printed on this
-page.)  This is **printed one-sided** and should be on
-**tear-resistant** paper.
+This page contains the parts of the bend magent spinner, which is
+attached to page 1.  (One of the experiment components for the XAFS
+pouch is also printed on this page.)  This is **printed one-sided**
+and should be on **tear-resistant** paper.
 
  * [Spinner](https://s3.amazonaws.com/SynchrotronPopUpBook/Spinner+Print.pdf)
 
@@ -77,15 +85,14 @@ cutting, these are assembled into a small book that is then attached
 to page 4.  These are to be **printed two-sided** and should be
 printed on **tear-resistant** paper.
 
- * [Lab book, recto](https://s3.amazonaws.com/SynchrotronPopUpBook/Lab+Book+Front.pdf)
- * [Lab book, verso](https://s3.amazonaws.com/SynchrotronPopUpBook/Lab+Book+Back.pdf)
+ * [Lab book, front sides](https://s3.amazonaws.com/SynchrotronPopUpBook/Lab+Book+Front.pdf)
+ * [Lab book, back sides](https://s3.amazonaws.com/SynchrotronPopUpBook/Lab+Book+Back.pdf)
 
 ### Pouches
 
 These are folded to make the three pouches containing end-station
-instruments.
-
-They should be **printed one-sided** and on **tear-resistant** paper.
+instruments, then attached to page 3.  They should be **printed
+one-sided** and on **tear-resistant** paper.
 
  * [Imaging pouch](https://s3.amazonaws.com/SynchrotronPopUpBook/Imaging+pouch.pdf)
  * [MX](https://s3.amazonaws.com/SynchrotronPopUpBook/MX+pouch.pdf)
@@ -108,3 +115,15 @@ contains two copies each of the slider for the undulator and the
 overlays for the imaging experiment.  This is **printed one-sided**.
 
  * [Acetate page](https://s3.amazonaws.com/SynchrotronPopUpBook/Acetate.pdf)
+
+
+## Bundled pages
+
+Here are links which allow you to download all of the pages in one
+click.  The zip file contains each individual page linked above.  The
+PDF file contains the pages as one large file, with the pages in the
+order given above.  Each file is about 120 MB.
+
+ * [Zip file](https://s3.amazonaws.com/SynchrotronPopUpBook/allpages.zip)
+ 
+ * [Single PDF file](https://s3.amazonaws.com/SynchrotronPopUpBook/allpages.pdf)

@@ -45,7 +45,8 @@ paper.
 
 These pages are assembled into the shaping magnets booklet, which is
 attached to page 2.  The text pages are to be **printed two-sided**
-and all and on **tear-resistant** paper.
+and all and on **tear-resistant** paper.  The text pages also have the
+protein for the MX experiment in the log book.
 
  * [Text and cover](https://s3.amazonaws.com/SynchrotronPopUpBook/Shaping+Magnet+Text.psd) (19.9 MB)
  * [Text, back side](https://s3.amazonaws.com/SynchrotronPopUpBook/Shaping+Magnet+Text+B.psd) (7.6 MB)

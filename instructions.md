@@ -61,3 +61,11 @@ For each pouch, fold away from you along the lines shown in purple below. This s
 Remove the backing from the strips of tape, and seal the front of the pouch to the tabs.
 
 You should now have three pouches. Each can be open and closed repeatedly by inserting the small rectangular tabs in to the slits you made.
+
+# Step 9
+
+For this step, we're going to make several of the experimental components that go in the pouches. Cut out the following:
+
+* From the One-Sided Components page, cut out the KB Mirrors and the Detector.
+* From the Two-Sided Components page, cut out the Silicon Drift Detector, the plant, the solar cell sample, the Optical Camera (labelled 4), and the goniometer head (the small, grey, unlabeled piece in the lower left).
+* From the page that held the imaging pouch, the goniometer base (labelled b).

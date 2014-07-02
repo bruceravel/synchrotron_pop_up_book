@@ -36,7 +36,7 @@ of the book.  Many of these products can be found at
    sheets, appropriate for a single copy of the book.  It also comes
    in packages of 100.
 
- * Carboard used to back the pages of the book:
+ * Chipboard used to back the pages of the book:
    [Grafix - Medium Weight Chipboard](http://www.amazon.com/gp/product/B00161W6L8)
    This was an economical choice for bulk construction.  For a single
    copy, you might consider using
@@ -84,3 +84,18 @@ finished product.
 
  * Clear acetate printer sheets were used for the undulator pull tab
    and for the imaging experiment overlays.
+
+## Alternatives
+
+If you don't mind a less durable book or a more difficult construction process, 
+but want to use less expensive or more available materials, you can make the following substitutions.
+
+ * Cardstock can be substituted for the tear-resistant paper.
+
+ * Ordinary box cardboard, cut to the right size, can be substituted for the chipboard.
+
+ * Double-stick tape can be substituted for the special tape. If you use the ordinary 1/2" variety, however, you're going to have to cut it in half for many of the applications. Glue (such as white glue) is another good choice. Gluesticks, however, are not recommended--they're not strong enough for most of the components.
+ 
+ * Clear packing tape can be substituted for the clear book tape.
+ 
+ * Electrical tape can be substituted for the book binding tape.

@@ -48,13 +48,14 @@ Note that each pouch also has two tall narrow ovals, in black, inside the colore
 
 For each pouch, tear off two strips of tape about the length of the small trapezoidal tabs and apply them. For now, don't take the backing off.
 
-{Figure Step 6}
+![Step 6, apply tape to pouch tabs](assembly/step6.jpg)
+
 
 ## Step 7
 
 For each pouch, fold away from you along the lines shown in purple below. This should create an envelope with the writing on the outside.
 
-{Figure Step 7}
+![Step 7, fold tabs to make pouch](assembly/step7.jpg)
 
 ## Step 8
 

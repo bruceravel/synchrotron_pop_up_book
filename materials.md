@@ -33,7 +33,7 @@ of the book.  Many of these products can be found at
    [Rite in The Rain #6511 Duracopy Paper](http://www.amazon.com/gp/product/B002XR05G2/).
    This was used to print all papercraft components as well as the
    backing for the interior pages.  The link is to a pack of 25
-   sheets, appropriate for a couple copies of the book.  It also comes
+   sheets, appropriate for a single copy of the book.  It also comes
    in packages of 100.
 
  * Carboard used to back the pages of the book:
@@ -50,7 +50,7 @@ of the book.  Many of these products can be found at
    papercraft components of the book have been sized for this tape.
    Although any tape can be used, this stuff is well worth the cost.
 
- * Clear tape:
+ * Clear book tape:
    [3M 1.5" See-Through Book Repair Tape](http://www.amazon.com/gp/product/B00006IF5Q)
    This was used to attach the chip board pages together after the
    printed pages were taped to the chipboard.
@@ -80,7 +80,7 @@ finished product.
    at any well-stocked hardware store.
 
  * Normal printer paper was used for the front and back covers and for
-   the equipment pouch inserts showing a photograph of the beamlines.
+   the equipment pouch inserts showing a photograph of the beamlines. If you're just making a single copy of the book and bought a 25 sheet pack of the tear-resistatnt paper, there is no reason not to use that instead.
 
  * Clear acetate printer sheets were used for the undulator pull tab
    and for the imaging experiment overlays.

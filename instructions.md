@@ -34,35 +34,35 @@ If you're using the suggested tape from the materials page, you don't need a sci
 
 The first thing to assemble is the components for the experiments that will go in the endstation, and the pouches to hold them.
 
-# Step 4
+## Step 4
 
 Each of the "pouches" sheet has a piece that will form a pouch when cut out and folded--they take up about half the page, and have "Open for...components" on the left flap. One is blue, one is red, and one is green. 
 
 Cut around the outside of these shapes to remove them from their sheets.
 
-# Step 5
+## Step 5
 
 Note that each pouch also has two tall narrow ovals, in black, inside the colored rectangle with the text. Cut a slit inside each of these ovals. It is not necessary for the slit to be perfect--you don't need to cut out the entire oval to its border, for example. It just needs to be wide enough to fit the tabs at the left side.
 
-# Step 6
+## Step 6
 
 For each pouch, tear off two strips of tape about the length of the small trapezoidal tabs and apply them. For now, don't take the backing off.
 
 {Figure Step 6}
 
-# Step 7
+## Step 7
 
 For each pouch, fold away from you along the lines shown in purple below. This should create an envelope with the writing on the outside.
 
 {Figure Step 7}
 
-# Step 8
+## Step 8
 
 Remove the backing from the strips of tape, and seal the front of the pouch to the tabs.
 
 You should now have three pouches. Each can be open and closed repeatedly by inserting the small rectangular tabs in to the slits you made.
 
-# Step 9
+## Step 9
 
 For this step, we're going to make several of the experimental components that go in the pouches. Cut out the following:
 

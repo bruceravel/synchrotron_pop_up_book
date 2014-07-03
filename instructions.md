@@ -159,15 +159,63 @@ There's all sorts of places where something could get stuck here--this is one of
 
 From the Magnets page, cut out the quadrupole magnet, the sextupole magnet, and the two magnet frames. The quadrupole magnet is the thing with the four copper coils, the sextupole the one with the six coils, and the frames are the colored octagons.
 
+Cut out the white area from the center of the frames.
+
 ## Step 24
 
-Put a small piece of tape on the end of each tab sticking out from the magnets, on the non-printed side of the paper.
+Put a small piece of tape on the end of each tab sticking out from the magnets, on the **non-printed** side of the paper.
 
 ## Step 25
 
-For each magnet, fold it toward you along one of the purple lines shown below. Then unfold and fold toward you along the other purple line. Unfold again, and then fold away from you along the green line.
+For each magnet, fold it toward you along one of the green lines shown below. Then unfold and fold toward you along the other green line. Unfold again, and then fold away from you along the purple line.
 
-Fold the frames away from you along the green lines (i.e. fold them in half).
+Fold the frames away from you along the purple lines (i.e. fold them in half).
+
+![Step 25, Assemble magnets](assembly/Step25.png)
 
 ## Step 26
+
+The yellow frame is for the quadrupole magnet and the orange frame for the sextupole (this is the same color scheme used for the actual magnets at the NSLS-II!).
+
+Remove the backing from the pieces of tape. With the magnet and the corresponding frame both printed side up, place the magnet behind the corresponding frame, so that it's visible through the hole in the middle of the frame. This next step is magic, so read it carefully: attach the tape on the magnet tab to the **non-printed** side of the frame, approximately where the arrows in the diagram above show, so that the small rectangle at the end of the tab just overlaps the frame. 
+
+If you've done everything right, the entire assembly can be squashed flat so that the magnets show nicely through the hole in the frame, but the assembly can also be folded in half, as shown in the animation below {coming soon}.
+
+## Step 27
+
+Cut out the two large rectangular pieces from the text and cover pages. Do not cut out the circle in the middle of the small depictions of the frames!
+
+## Step 28
+
+One side of one of the pieces has text that starts with "As the electron bunches travel..." Place a piece of tape along the tall narrow rectangle next that's to the right of the square which contains that text.
+
+## Step 29
+
+While looking at the piece with the tape on it, fold toward you along the line between the square with the text and the rectangle with the tape.
+
+Fold the other rectangular piece in half, so that it forms a booklet with "A quadrupole magnet by itself..." on the left inside page, "To correct this problem..." on the right inside page, and "A quadrupole magnet has four powerful magnets..." on the front. The back will be blank.
+
+## Step 30
+
+Remove the backing from the tape. Place that  piece so that the large square photograph is on top of the booklet and the small rectangle wraps around it. Press to seal them together with the tape and form a new booklet. The sequence of pages should be the large photograph as a cover, then "As the electron bunches travel," "A quadrupole magnet has four powerful magnets," "A quadrupole magnet by itself," and "To correct this problem."
+
+# Step 31
+
+Because of how they've been folded, each magnet now has been divided in to two large triangular regions opposite each other, and four small ones, which all come together in a point in the center.
+
+Place some tape on the non-printed side of each large triangle. What's "some" tape? Perhaps three pieces roughly outlining the outside of each triangle, but you don't need to be picky.
+
+# Step 32
+
+Open the booklet to the first pair of pages, about the quadrupole magnet. Remove the backing on the tapes on the quadrupole magnet. Center it, with the line between the small triangles pointing along the fold in the page, so that one of the large triangles is attached to the left page, and one to the right. Press down to seal.
+
+Turn the page, and repeat the process for the sextupole magnet.
+
+# Step 33
+
+At first the booklet will be a little hard to close--don't be afraid to press on it a bit to reinforce the folds in the magnets. 
+
+Use a paperclip to hold the book shut (it will bulge--that's OK). Set the book aside.
+
+
 

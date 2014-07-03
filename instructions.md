@@ -129,7 +129,7 @@ Note the red circles in the spinner. Find a way to make each in to a hole. Maybe
 
 Thread an ordinary round toothpick through the spinner. Using the numbering shown on the figure below, start with the toothpick on the printed side of the spinner, and then push it through hole 1, back out hole 2, in hole 3, and so on. It should fit snugly. If it doesn't, tape or glue it in place, but don't use any tape or glue between hole 4 and hole 5.
 
-![Step 18, Thread toothpick](assembly/Step15.png)
+![Step 18, Thread toothpick](assembly/Step18.png)
 
 ## Step 19
 

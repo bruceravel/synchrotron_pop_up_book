@@ -6,11 +6,11 @@ Note: This is a craft project, not a simple "some assembly required" toy. Think 
 # Preliminaries
 ## Step 1
 
-Gather [materials](https://github.com/bruceravel/synchrotron_pop_up_book/edit/master/materials.md).
+Gather [materials](https://github.com/bruceravel/synchrotron_pop_up_book/blob/master/materials.md).
 
 ## Step 2
 
-Download [pdf files](https://github.com/bruceravel/synchrotron_pop_up_book/edit/master/pages.md) for the individual pages.
+Download [pdf files](https://github.com/bruceravel/synchrotron_pop_up_book/blob/master/pages.md) for the individual pages.
 
 ## Step 3
 
@@ -22,7 +22,7 @@ Note: some of the pages have two sides, with one file for each side. It is impos
 
 At some point, you will need to cut out the components for the book, and also cut several slits in the pages. The red lines show you where to cut when it is not obvious.
 
-One good way to make the cuts is to use a utility/hobby knife, or a razor blade. Scissors are not recommended--it's hard, for example, to cut the slits that way. If you have an automatic cutter of some kind, such as are sold for scrapbooking, you can download the [photoshop files](https://github.com/bruceravel/synchrotron_pop_up_book/edit/master/photoshop.md) and use the cut lines layer to create a template for your cutter.
+One good way to make the cuts is to use a utility/hobby knife, or a razor blade. Scissors are not recommended--it's hard, for example, to cut the slits that way. If you have an automatic cutter of some kind, such as are sold for scrapbooking, you can download the [photoshop files](https://github.com/bruceravel/synchrotron_pop_up_book/blob/master/photoshop.md) and use the cut lines layer to create a template for your cutter.
 
 If you are using a knife or razor blade, we recommend cutting as you go, rather than doing all the cutting first. The instructions below sometimes mention subtleties in how to make the cuts that you might miss otherwise, and it also becomes easy to confuse components such as the different sections of wall.
 

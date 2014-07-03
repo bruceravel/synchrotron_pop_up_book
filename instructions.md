@@ -65,8 +65,48 @@ You should now have three pouches. Each can be open and closed repeatedly by ins
 
 ## Step 9
 
-For this step, we're going to make several of the experimental components that go in the pouches. Cut out the following:
+Cut the individual cards out of the "Inserts" page. Slide each one in to the pouch with the massing label.
 
-* From the One-Sided Components page, cut out the KB Mirrors and the Detector.
-* From the Two-Sided Components page, cut out the Silicon Drift Detector, the plant, the solar cell sample, the Optical Camera (labelled 4), and the goniometer head (the small, grey, unlabeled piece in the lower left).
-* From the page that held the imaging pouch, the goniometer base (labelled b).
+## Step 10
+
+In the next several steps, we're going to make several of the experimental components that go in the pouches. Cut out the following:
+
+* From the One-Sided Components page, the KB Mirrors and the Detector.
+* From the Two-Sided Components page, the Silicon Drift Detector, the plant, the solar cell sample, the Optical Camera (labelled 4), and the Goniometer head (the small, grey, unlabeled piece in the lower left).
+* From the page that held the imaging pouch, the Goniometer base (labelled b).
+* From the Inner Wall page, the Cryostream.
+* From the Spinner page, the Incident Detector and Transmission Detector.
+
+## Step 11
+
+Fold the tab on the plant toward you, ans slide the plant in to the green pouch. Fold the tab on the solar cell sample toward you, and slide in to the blue pouch.
+
+## Step 12
+
+The Cryostream and the Optical Camera have a diagonal line to mark where a slit should be. Cut each slit, extended it all the way to the edge.
+
+The Cryostream can now be slid in to the red pouch and the Optical Camera in to the green pouch.
+
+## Step 13
+
+The KB Mirrors, the Detector, and the Silicon Drift Detector are assembled similarly. In each case, there is a small rectangle at one end, about the width of a strip of tape. Place a piece of tape along that length. Next, fold away from you along each of the parallel rectangle sides, so that the object forms a box, with the rectangle with the tape overlapping the bottom of the opposite side. Remove the backing from the tape and press against the overlapping side. Manipulate the resulting box so that the sides are perpendicular. Do not fold the tabs!
+
+Slide the KB Mirrors and the Silicon Drift Detector in to the green pouch and the Detector in to the red pouch. You'll have to flatten them a bit to do that.
+
+## Step 14
+
+The Incident Detector and Transmission Detector are assembled similarly. Place a piece of tape in the empty rectangle as shown. Fold away from you along each line shown, to form a box. Remove the backing from the piece of tape and attach it to the overlapping side. Manipulate the resulting box so that the sides are perpendicular. Fold the tab so that it points out from the box.
+
+Slide the Incident Detector and the Transmission Detector in to the blue pouch. You'll have to flatten them a bit to do that.
+
+![Step 14, XAFS detectors](assembly/Step14.png)
+
+## Step 15
+
+Place a piece of tape along the Goniometer head as shown. Then fold away from you along the line shown (the exact location of the fold isn't crucial).
+
+Remove the backing from the tape and attach to the center of the Goniometer base. It doesn't matter which way you orient it, but you should manipulate the fold so that the goniometer head is sticking straight out of the base.
+
+Place the assembled goniometer in to the red pouch.
+
+![Step 15, Goniometer](assembly/Step15.png)

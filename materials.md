@@ -48,7 +48,7 @@ of the book.  Many of these products can be found at
    to hold the book together nicely, but not so sticky that you cannot
    recover from something affixed incorrectly.  The folds in the
    papercraft components of the book have been sized for this tape.
-   Although any tape can be used, this stuff is well worth the cost.
+   Although any tape can be used, this stuff is well worth the cost. One roll is sufficient for two books.
 
  * Clear book tape:
    [3M 1.5" See-Through Book Repair Tape](http://www.amazon.com/gp/product/B00006IF5Q)

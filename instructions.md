@@ -1,7 +1,7 @@
 Build instructions
 ==================
 
-Note: This is a craft project, not a simple "some assembly required" toy. Think about what you're doing as you make the book, and expect to have improvise a little at times. You may well think of a better way of doing some of these steps than what we've suggested. If so, let us know--maybe we'll incorporate it in to a new set of instructions!
+Note: This is a craft project, not a simple "some assembly required" toy. Think about what you're doing as you make the book, and expect to have improvise a little at times. You may well think of a better way of doing some of these steps than what we've suggested. If so, let us know by raising an issue at the GitHub site -- maybe we'll incorporate it in to a new set of instructions!
 
 # Preliminaries
 ## Step 1

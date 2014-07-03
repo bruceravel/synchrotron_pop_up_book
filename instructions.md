@@ -110,3 +110,45 @@ Remove the backing from the tape and attach to the center of the Goniometer base
 Place the assembled goniometer in to the red pouch.
 
 ![Step 15, Goniometer](assembly/Step15.png)
+
+## Step 16
+
+Close each of the pouches by slipping the tabs in to the slits, and set aside.
+
+# Bend Magnet Spinner
+
+## Step 17
+
+Cut out the remaining pieces from the Spinner page. The scalloped edges of the spinner are not crucial to its function; spend as much or as little effort as you'd like getting those cut prettily!
+
+Note the red oval in the top bend magnet (shown in blue). Cut a slit in that red oval.
+
+Note the red circles in the spinner. Find a way to make each in to a hole. Maybe you can do that with a knife or razor, or maybe it's better to use a needle--let us know what works well for you! (We used a laser cutter for all the cuts in the book, so haven't experimented much with other methods.) Do not make the holes bigger than the circles.
+
+## Step 18
+
+Thread an ordinary round toothpick through the spinner. Using the numbering shown on the figure below, start with the toothpick on the printed side of the spinner, and then push it through hole 1, back out hole 2, in hole 3, and so on. It should fit snugly. If it doesn't, tape or glue it in place, but don't use any tape or glue between hole 4 and hole 5.
+
+![Step 18, Thread toothpick](assembly/Step15.png)
+
+## Step 19
+
+Print Page 1. Note there is a small red circle in the lower left and a red oval a little right of the center. Make a hole through the circle, and cut a slit inside the oval.
+
+## Step 20
+
+Take one of the small screws, and pass it through hole S in the spinner and then through the hole in page 1 and in to a matching nut. Tighten enough to hold in place, but not so tight that the spinner can't be turned.
+
+## Step 21
+
+Take the X-ray arrow from the Spinner page, and apply a small piece of tape opposite the end with the arrowhead. Slip the arrow through the slit in the blue bend magnet (not the slit in Page 1!) so that the arrowhead is visible in front of the bend magnet and pointing to the right. Take the other end (which has tape on it, right?) and wrap it around the toothpick (which is threaded through the spinner) somewhere between hole 4 and 5. Remove the backing from the tape and attach the end of the arrow to itself, forming a small loop around the toothpick. The idea is that the arrow should be able to slide freely up and down the toothpick between holes 4 and 5.
+
+You should now have a multi-layered assembly. From front to back, you should have the arrowhead, the bend magnets, the tail of the arrow (wrapped around the toothpick), the spinner, and then Page 1. 
+
+## Step 22
+
+Use tape to attach the piece with the bend magnets to Page 1. Because the spinner will be in the way of much of it, those tapes will be limited to a few places on the outer edges of the back of the piece with the bend magnets. In addition, don't use any tape in the top left quadrant except for one piece at the edge of the page, since the toothpick will need to be able to spin freely in that area. 
+
+The result should be that you can turn the spinner using the window in the bend magnet piece at the left, and as you do so the x-ray arrow moves further in or out of the bend magnet. The toothpick should not be visible, and the range of rotation should be limited by a piece of tape so that the toothpick cannot be rotated in to the window.
+
+There's all sorts of places where something could get stuck here--this is one of the places where it's handy to be able to remove the tape from the tear-free paper! Work at it until you're satisfied.

@@ -152,3 +152,22 @@ Use tape to attach the piece with the bend magnets to Page 1. Because the spinne
 The result should be that you can turn the spinner using the window in the bend magnet piece at the left, and as you do so the x-ray arrow moves further in or out of the bend magnet. The toothpick should not be visible, and the range of rotation should be limited by a piece of tape so that the toothpick cannot be rotated in to the window.
 
 There's all sorts of places where something could get stuck here--this is one of the places where it's handy to be able to remove the tape from the tear-free paper! Work at it until you're satisfied.
+
+# Shaping Magnets
+
+## Step 23
+
+From the Magnets page, cut out the quadrupole magnet, the sextupole magnet, and the two magnet frames. The quadrupole magnet is the thing with the four copper coils, the sextupole the one with the six coils, and the frames are the colored octagons.
+
+## Step 24
+
+Put a small piece of tape on the end of each tab sticking out from the magnets, on the non-printed side of the paper.
+
+## Step 25
+
+For each magnet, fold it toward you along one of the purple lines shown below. Then unfold and fold toward you along the other purple line. Unfold again, and then fold away from you along the green line.
+
+Fold the frames away from you along the green lines (i.e. fold them in half).
+
+## Step 26
+

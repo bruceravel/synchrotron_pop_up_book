@@ -77,13 +77,15 @@ finished product.
    in the log book.
    [Here, for example](http://www.mcmaster.com/#92185a071/=s90nze) are
    1/8 in 2-56 bolts from McMaster-Carr.  These can probably be found
-   at any well-stocked hardware store.
+   at any well-stocked hardware store. The exact dimensions of the nut and bolt are not crucial, as long as they are small.
 
  * Normal printer paper was used for the front and back covers and for
    the equipment pouch inserts showing a photograph of the beamlines. If you're just making a single copy of the book and bought a 25 sheet pack of the tear-resistatnt paper, there is no reason not to use that instead.
 
  * Clear acetate printer sheets were used for the undulator pull tab
    and for the imaging experiment overlays.
+
+ * Staples are used for the Log Book.
 
 ## Alternatives
 

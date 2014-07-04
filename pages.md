@@ -79,15 +79,15 @@ pouches.  These are **printed two-sided** and should be on
  * [Backs](https://s3.amazonaws.com/SynchrotronPopUpBook/Two-sided+Experiment+Components+Back.pdf) (6.3 MB)
 
 
-### Lab Book
+### Log Book
 
-These contain text and backing images for the lab book.  After
+These contain text and backing images for the log book.  After
 cutting, these are assembled into a small book that is then attached
 to page 4.  These are to be **printed two-sided** and should be
 printed on **tear-resistant** paper.
 
- * [Lab book, front sides](https://s3.amazonaws.com/SynchrotronPopUpBook/Lab+Book+Front.pdf) (4.2 MB)
- * [Lab book, back sides](https://s3.amazonaws.com/SynchrotronPopUpBook/Lab+Book+Back.pdf) (4.1 MB)
+ * [Log book, front sides](https://s3.amazonaws.com/SynchrotronPopUpBook/Lab+Book+Front.pdf) (4.2 MB)
+ * [Log book, back sides](https://s3.amazonaws.com/SynchrotronPopUpBook/Lab+Book+Back.pdf) (4.1 MB)
 
 ### Pouches
 

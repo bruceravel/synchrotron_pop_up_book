@@ -133,7 +133,7 @@ Thread an ordinary round toothpick through the spinner. Using the numbering show
 
 ## Step 19
 
-Print Page 1. Note there is a small red circle in the lower left and a red oval a little right of the center. Make a hole through the circle, and cut a slit inside the oval.
+Print Page 1. Note there is a small red circle in the lower left and two red ovals a little right of the center. Make a hole through the circle, and cut a slit inside each oval.
 
 ## Step 20
 
@@ -223,16 +223,50 @@ This is one of the most finicky and precise assembly sequences required for the 
 
 ## Step 34
 
-Cut the piece that says "pull" out of the Acetate page (the "slider") and the large plain rectangular item with no writing on it from the One-Sided Components page.
+Cut the piece that says "pull" out of the Acetate page (the "slider") and the large plain rectangular item with no writing on it (the "sleeve") from the One-Sided Components page.
 
 ## Step 35
 
-Place a strip of tape along each long edge. Make sure the tape doesn't hang over the edge, though.
+Place a strip of tape along each long edge of the sleeve. Make sure the tape doesn't hang over the edge, though.
 
 ## Step 36
 
-Fold away from you along the lines. If you turn the piece over, you should now have a partial sleeve that the slider" can slide through. Check the fit--the piece should slide back and forth comfortably, but not have too much room to wiggle from side to side. If it doesn't adjust the folds you made accordingly. Remove the slider so that it doesn't 
+Fold away from you along the lines. If you turn the sleeve over, and push the folded sections nearly flat against the rest of it, you should now have a kind of frame that the slider can slide through. Check the fit--the piece should slide back and forth comfortably, but not have too much room to wiggle from side to side. If it doesn't, adjust the folds you made accordingly. Remove the slider so it doesn't get damaged in the subsequent steps; you'll reinsert it later.
 
 ## Step 37
 
-At one end of the sleeve, put a piece of tape along one of the short sides. It should be long enough to go under both overhangs. Removde the backing, and seal the overhangs to the main piece on that end. This will
+Print page 2. Notice there are two red ovals near the center of the page. Cut a slit in each.
+
+There is also an intricate design in red in the lower right-hand corner. Cut out that design.
+
+There is another red oval just to the right of the design. It is difficult to see in the foliage, but look carefully and you'll find it. Cut a slit in that oval. (If it's still hard for you to find that oval, look at the illustration of the back of the page shown under Step 39.)
+
+## Step 38
+
+Flip over page 2 to the non-printed side. With a ruler, measure 1.5 cm from the bottom edge of the top row of cut-outs and use a pencil to mark a line. The figure below shows where to measure from, and the line (in black) that you should mark.
+
+![Step 38, Undulator alignment](assembly/Step38.png)
+
+## Step 39
+
+At one end of the sleeve, put a piece of tape along one of the short sides. It should be long enough to go under both overhangs. Removde the backing, and seal the overhangs to the main piece on that end. This will create a stop, so that if you put the slider back in the sleeve with the wide end pointing toward the tape, it won't be able to move past it. But don't do that yet.
+
+## Step 40
+
+Remove the backing on the long pieces of tape that you applied to the overhangs in step 35. Turn the sleeve so that the tape faces the non-printed side of page 2, and the stop is on your right. Carefully Line up the top edge of the sleeve with the line you drew; the left edge should go somewhere between the hard-to-see oval and the rest of the pattern, but while top-bottom alignment is crucial, left-right alignment is not. Once it is in position, push the top edge of the sleeve down first, creating a seal. Then stretch the sleeve nearly flat and push the bottom edge down. Because of the folds, the sleeve will curl the page a little bit; that's OK. Push the right edge down; the sleeve is now attached on three sides.
+
+## Step 41
+
+Take the slider and position it so that the word "pull" could be read correctly from the front of the page. Slide the wide end in to the sleeve. Take the end that says "pull" and thread it through the slit in the hard-to-see oval.
+
+## Step 42
+
+Test the undulator assembly!
+
+Turn page 2 back over, so you're looking at the printed side. Hold it in place on a flat surface somehow (eventually, it will be taped to chipboard, but don't do that yet). Pull the slider. You should see green through the center row of holes in the page, and purple through the rows above and below. You should also be able to slide the slider back and forth. See the animation below for what this should look like.
+
+Getting all of this right is, as we said earlier, finicky. It's quite likely the sleeve will not be aligned quite right the first time you try. That's OK--if you're using the tear-resistant paper and the special tape, you can pull the sleeve off of the paper. That will leave behind tape on either the sleeve or the paper, but if you rub at it with your finger you can get it to come off. Once you've done that, apply new tape and try again. Of course, it's up to you how much work you want to put in for the "perfect" result!
+
+Another common problem is that the slider won't go in to the sleeve as far as it should. That usually means that there's a little bit of tape sealing the sleeve prematurely. Try sticking a ruler in to the folds under each overhang, pushing it back and forth to the stop. That will often clear out any obstructions, and if you try inserting the slider again, it may work better.
+
+

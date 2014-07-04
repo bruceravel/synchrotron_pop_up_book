@@ -273,11 +273,11 @@ Another common problem is that the slider won't go in to the sleeve as far as it
 
 ## Step 43
 
-Cut out the two elements from the Log Book page. Notice that one page has a tiny red circle in it; make a hole through that circle.
+Cut out the two elements from the Log Book page. Notice that the page with the black and white image of a leaf has a tiny red circle in it; make a hole through that circle.
 
 ## Step 44
 
-Fold each down the middle and stack so as to create a booklet with this order of pages: Cover, XAFS Spectroscopy, blank page, MX, blank page, Fluorescence Imaging, blank page with a tiny hole in it.
+Fold each down the middle and stack so as to create a booklet with this order of pages: Cover, XAFS Spectroscopy, blank page, MX, blank page, Fluorescence Imaging, page with a black and white image of a leaf.
 
 ## Step 45
 
@@ -303,4 +303,62 @@ Place tiny pieces of tape (four 1/4" x 1/4" squares seem to work well) next to t
 
 ## Step 49
 
-Notice that one arm of the protein channel is a little longer and one is a little shorter, with the other two in between. 
+Notice that one arm of the protein channel is a little longer and one is a little shorter, with the other two in between.
+
+Put a piece of tape along the end of the long arm. Remove the backing and bend the arm around and attach it to the end of the arm opposite it.
+
+Put a piece of tape along each end of the remaining pair of arms. Bend them around and attach them to the middle of the loop formed by the first pair of arms. See the animation below for how it all fits together.
+
+## Step 50
+
+Put two pieces of tape across the assembly as shown in the photo below. Remove the backing and attach the assembly to the blank page of the Log Book opposite the MX text, oriented so that the "lift" instructions are facing the right way. Push down **hard**.
+
+## Step 51
+
+Test. This element is meant to be pulled up as shown in the animation below. If the tape has all been sealed well, it won't come undone under enough force to stretch open the ion channel. 
+
+## Step 52
+
+Cut out the rectangular piece with "Pb" and "S" on it from the MX pouch page and the remaining rectangular piece from the Shaping Magnets page.
+
+Cut along the red lines of the rectangular piece. Note that the red lines do *not* connect in the top and bottom circles! Likewise, the right part of the middle Pb and the left part of the middle S circles do not get cut. If you do this right, no pieces end up being removed. Instead, these cuts allow you to pull the middle set of circles out from the rectangle. Gently pull them away from the rectangular frame.
+
+Cut out the square that says "life here to see structure" (the "spectrum") from the XAFS Pouch page.
+
+## Step 53
+
+Fold the middle Pb-S pair, and the skinny rectangle joining them, down its middle, away from you. Fold the rectangular frame along the line where the middle Pb-S pair used to be, toward you. The result should be a roughly cubical arrangement, as shown below.
+
+## Step 54
+
+Crease the points where the edges of the cube join the top and bottom circles, so as to improve the look and stability of the cube.
+
+Fold the rectangle leading to the Hg somewhat down, so that the Hg floats in the middle of the cube. You might also want to introduce additional folds in the rectangle leading to the Hg to improve the appearance--the point is to have the Hg legible, and near the midddle of the cube.
+
+## Step 55
+
+Take the rectangle from the MX Pouch page and fold it toward you along the middle of the line joining the Pb and S. 
+
+## Step 56
+
+Put a piece of tape along each of the long edges of the Pb-S rectangle you just folded, on the non-printed side. Remove the backing, and attach it at the "missing" side of the cube. When you are done, there will be a Pb or an S at each corner of the cube (see photo).
+
+## Step 57
+
+On the non-printed side of the spectrum, put a piece of tape along each of the two sided edges and the bottom edge, but not the top edge. Remove the backings.
+
+## Step 57
+
+Carefully close the frame, so that the cube is flattened. The furthest Pb-S pair will stick out from between the two halves a bit. Attach the spectrum on the non-printed side of the frame which is now on top. Notice that there will be some exposed tape from the Pb-S rectangle poking through the holes in the frame; that's why there was no need for a piece of tape along the top of the spectrum.
+
+## Step 58
+
+Turn the frame over. Put pieces of tape along the side and bottom edges (again, some tape should be showing through at the top edge). Remove the backings.
+
+## Step 59
+
+Open the Log Book to the blank page opposite "XAFS Spectroscopy." Attach the assembly you have just made to that page, toward the top, so that there's room for the Pb-S pair that sticks out from the bottom of the frame.
+
+## Step 60
+
+Close the log book and use a paperclip to hold it closed. Set it aside.

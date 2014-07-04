@@ -3,6 +3,8 @@ Build instructions
 
 Note: This is a craft project, not a simple "some assembly required" toy. Think about what you're doing as you make the book, and expect to have improvise a little at times. You may well think of a better way of doing some of these steps than what we've suggested. If so, let us know by raising an issue at the GitHub site -- maybe we'll incorporate it in to a new set of instructions!
 
+The [walkthrough](https://github.com/bruceravel/synchrotron_pop_up_book/blob/master/walkthrough.md) can also be helpful for seeing what the assembled components look like.
+
 # Preliminaries
 ## Step 1
 
@@ -341,7 +343,9 @@ Take the rectangle from the MX Pouch page and fold it toward you along the middl
 
 ## Step 56
 
-Put a piece of tape along each of the long edges of the Pb-S rectangle you just folded, on the non-printed side. Remove the backing, and attach it at the "missing" side of the cube. When you are done, there will be a Pb or an S at each corner of the cube (see photo).
+Put a piece of tape along each of the long edges of the Pb-S rectangle you just folded, on the non-printed side. Remove the backing, and attach it at the "missing" side of the cube. When you are done, there will be a Pb or an S at each corner of the cube (see photo from walkthrough).
+
+![XAFS Structure](images/xafs.jpg)
 
 ## Step 57
 

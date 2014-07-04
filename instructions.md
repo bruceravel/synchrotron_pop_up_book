@@ -366,3 +366,142 @@ Open the Log Book to the blank page opposite "XAFS Spectroscopy." Attach the ass
 ## Step 60
 
 Close the log book and use a paperclip to hold it closed. Set it aside.
+
+# Monochromator
+
+## Step 61
+
+Cut out the remaining piece from the Imaging Pouch page (the "back"), the remaining piece from the MX Pouch page (the "slider"), the remaining piece from the XAFS pouch page (the "frame"), and the piece that says "Monochromator" from the Two-sided Experiment Components page (the "cover"). Note that the frame and the cover have cut lines that clip off one edge--that's intentional! Also, the frame and slider have inside rectangles to be cut out and discarded.
+
+## Step 62
+
+Place the slider on the back, both with the printed side up and the text upright, so that the black-outlined rectangles on the back project above and below the edges of the slider. Fold the rectangles toward you over the slider, so that they form a sleeve much like that used by the undulator.
+
+## Step 63
+
+Put a piece of tape on each of the exposed folds of the back (again, much like you did with the undulator). Remove the backing from the tape.
+
+## Step 64
+
+Line up the window in the frame with the window in the slider. The clipped part of the frame needs to be at the top.
+
+Attach the frame to one of the exposed pieces of tape, and then pull it flat and attach it to the other. Because of the folds, the resulting assembly will bow out a little.
+
+## Step 65
+
+Using the **clear book tape** (not the special two-sided tape), attach the cover to the frame at the clipped edge. This should form a hinge, with part of the tape attached to the front of the cover and the rest of it attached to the back of the frame.
+
+# Beamline
+
+## Step 66
+
+Print out pages 3 and 4. Note that page 3 has a bunch of labelled colored areas (A, a, B/1, C/2, 3, and an unlabelled orange one). A slit should be cut in each of those, but make sure the color is still visible around the slit. There are also two red rectangles with no label or color halo; slits should also be cut in those.
+
+Page 4 has three narrow red ovals; cut a slit in each.
+
+## Step 67
+
+The remaining large piece on the Two-Sided Experimental Components page is the "Endstation Wall." One side has more of an orange tint, and the other more blue. 
+
+With the blue side facing you, put a small piece of tape on each of the two blank tabs, but not on the orange tab.
+
+## Step 68
+
+With the blue side facing you, fold away from you along the dark vertical lines, and fold each of the tabs toward you. The resulting shape is shown in the walkthrough picture below.
+
+![Endstation](images/secondspread.jpg)
+
+## Step 69
+
+Insert the blank tabs through the slits in the uncolored, unmarked rectangles in page 3. Remove the backing from the tape, and seal the tabs to the non-printed side of the page.
+
+Insert the orange tab in to the orange slot just to make sure that everything fits OK and to improve any folds that aren't sitting well. Then remove the orange tab and fold the endstation wall so that it can be pushed flat on to the page--it needs to do that for the book to close.
+
+## Step 70
+
+Cut out the First Optical Enclosure ("FOE") from the One-Sided Experimental Components page. Notice there is a long narrow red oval on the FOE. Cut a slit in it.
+
+## Step 71
+
+Put a piece of tape along the small white rectangular area at the right end of the FOE, on the printed side. Put small pieces of tape on each tab.
+
+## Step 72
+
+Fold away from you along the lines shown in purple below. Fold the tabs toward you. The result will be a box shaped object, with a lid that can be inserted through the large slot.
+
+## Step 73
+
+Remove the backing from the long piece of tape and seal to complete the box.
+
+## Step 74
+
+From the printed side, insert the tabs through the pair of slits in page 4. Flip over page 4, remove the backing from the tapes on the tabs, and seal them to the non-printed side.
+
+Turning the page back over, you should now be able to move the FOE in to the box shape and put the lid in place, and then remove the lid and push the box down in order to prepare it for being flattened when the page was closed.
+
+# Pages 1 and 2
+
+Follow these steps in order! It may not seem like it matters, but in some cases it does.
+
+## Step 75
+
+Cut out the Outer Wall pieces. Note that there is a long piece with a tab, a long piece without a tab, and a short piece with a tab.
+
+## Step 76
+
+While looking at the grey side, put a piece of tape on each of the tabs. Fold the tabs toward you.
+
+## Step 77
+
+The long section goes on page 1, with the grey side facing left. From the printed side of the page, insert the tab through the left-most of the two slits you cut in the middle of page 1. Turn the page over, remove the backing from the tape, and seal it to the non-printed side of the page.
+
+The short section goes on page 2, with the grey side facing to the right. From the printed side of the page, insert the tab through the right-most of the two slits you cut in the middle of page 2. Turn the page over, remove the backing from the tape, and seal it to the non-printed side of the page.
+
+## Step 78
+
+Cut out the Inner Wall pieces. Note that there is text on the grey sides.
+
+## Step 79
+
+Use tape to attach each segment to the next so that the text flows naturally. That means there will be some overlap between sections. Don't skimp on tape for this; these walls will be under a lot of stress when the book is opened and closed.
+
+## Step 80
+
+While looking at the white side with the photos, put a piece of tape on each of the tabs. Fold the tabs toward you.
+
+## Step 81
+
+The section with the start of the text goes on page 2, with the grey side facing to the left. From the printed side of the page, insert the tab through the remaining slit you cut in the middle of page 2. Turn the page over, remove the backing from the tape, and seal it to the non-printed side of the page. If everything went correctly, it will overlap a little with the previously taped tab from the outer wall.
+
+The section with the end of the text goes on page 1, with the grey side facing to the right. From the printed side of the page, insert the tab through the remaining slit you cut in the middle of page 1. Turn the page over, remove the backing from the tape, and seal it to the non-printed side of the page. If everything went correctly, it will overlap a little with the previously taped tab from the outer wall.
+
+The inner wall should now loop around the bottom of the page, but have two free ends at the top.
+
+## Step 82
+
+Take two pieces of chipboard and apply tape along all four edges of both sides of each. (That's 16 strips of tape in all)
+
+## Step 83
+
+Remove the backing from the four strips of tape on one side of one of the pieces of chipboard. Carefully lower page 1 (which by now has several things sticking out of it) on to the tape. Unlike when you're working with the tear-free paper, it's difficult to remove the tape from the chipboard without damaging it, although since the damage will be mostly hidden behind the page, it's still possible if you need to.
+
+## Step 84
+
+Remove the backing from the four strips of tape on onse side of the other piece of chipboard. Place it to the right of page 1, so that its left edge touches the right edge of page 1. Carefully lower page 2 on to it.
+
+## Step 85
+
+Cut a piece of the clear book tape that's about 12 inches long. Use that to join pages 1 and 2. (You'll have to slip it under the loop formed by the inner wall, but that shouldn't be difficult.) Since 12" is a little bit longer than the joint, you'll have about a half inch at each end to wrap around on to the other side. 
+
+## Step 86
+
+Place a single strip of tape on the far end of the grey side of the inner wall after the text runs out. That tape should run from the top to the bottom of the strip. Remove the backing, and attach to the piece where the text starts, completing the loop.
+
+## Step 87
+
+You should still have one section of outer wall that you haven't used. On the grey side of that wall, put one piece of tape along each of the short ends. Remove the backing from the tapes, and attach to the existing sections of outer wall, overlapping them by just the width of the tape.
+
+Congratulations! You have the beginnings of a book. When you first try closing the book the binding will seem stiff, but that will quickly loosen up. Also, the walls will never again have the perfect circular shape they do at first (unless you keep smoothing them out), but that's also normal.
+
+
+

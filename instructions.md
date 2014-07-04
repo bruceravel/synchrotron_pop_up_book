@@ -503,5 +503,60 @@ You should still have one section of outer wall that you haven't used. On the gr
 
 Congratulations! You have the beginnings of a book. When you first try closing the book the binding will seem stiff, but that will quickly loosen up. Also, the walls will never again have the perfect circular shape they do at first (unless you keep smoothing them out), but that's also normal.
 
+# Binding
 
+## Step 88
 
+Close your new book, turn to the back, and remove the backing from the tapes. Carefully attach page 3 to the chipboard.
+
+## Step 89
+
+Take another piece of chipboard and put pieces of tape along each edge of each side, as you did in Step 82.
+
+## Step 90
+
+Remove the backing from the tapes and carefully attach page 4 to the new piece of chipboard.
+
+## Step 91
+
+Place pages 3 and 4 next to each other and use clear book tape to connect them, as you did in Step 85.
+
+## Step 92
+
+Flip the book to the front. Remove the backing from the tapes and carefully attach the front cover.
+
+## Step 93
+
+Flip the book to the back. Remove the backing from the tapes and carefully attach the back cover.
+
+## Step 94
+
+Tear off a piece of the book binding tape (the cloth stuff) about 11" long. Use it to provide a binding for the book, so that about a half-inch overlaps on to the front cover, and about a half-inch on to the back cover. Be careful to center it appropriately so that it doesn't cover any of the writing.
+
+Congratulations! Now you have a book!
+
+# Finishing Up
+
+## Step 95
+
+Put strips of tape along each edge of the back of the Shaping Magnets booklet. Remove the backing, and attach the book toward the upper right hand corner of page 2.
+
+## Step 96
+
+Put strips of tape along each edge of the back of each pouch. Remove the backing, and attach them in the upper part of page 3. The blue one goes on the left, the red in the middle, and the green on the right. Leave a little space between them; they'll be easier to open and close that way.
+
+## Step 97
+
+Turn the monochromator assembly over and put strips of tape near the top and the bottom of the non-printed side of the frame. Remove the backing and push the bottom end on to page 4 in the appropriate position, then stretch the assembly flat, and push the top end down. The "appropriate position" can be seen in the picture from the walkthrough shown below. Another way to check is that the tab from the cover should go in to the slit, allowing the mono to remain closed.
+
+![Mono position](images/mono.jpg)
+
+## Step 98
+
+Put strips of tape along each edge of the back of the Log Book. Remove the backing and attach it toward the lower left of page 4. Leave enough room so that the monochromator slider can be pushed in all the way to the stop.
+
+## Step 99
+
+Enjoy! Show off! Bring your book to cocktail parties, or scientific conferences, or raves, or quiet nights by the fire.
+
+In most cases, if a part becomes damaged, lost, or worn out, you can re-make just that part and have it be OK. That's even true of elements like the undulator--it's possible to carefully pull up the taped pages from the chipbaord. While the chipboard will tear when you do this, the damage will be largely invisible when you add new tape and re-seal.

@@ -14,7 +14,7 @@ Download [pdf files](https://github.com/bruceravel/synchrotron_pop_up_book/blob/
 
 ## Step 3
 
-Print. The inserts and front and back cover may be printed on regular paper if desired. Other components should be printed on tear-resistant paper or cardstock. 
+Print. The inserts and front and back cover may be printed on regular paper if desired. The "Acetate page" must be printed on transparency film. Other components should be printed on tear-resistant paper or cardstock. 
 
 Note: some of the pages have two sides, with one file for each side. It is impossible, with any ordinary kind of printer, to ensure perfect alignment when printing two-sided (we tried!). But you should try to get the alignment as good as you can. This usually involves putting a single sheet in the paper tray or feeder, pushed all the way up against the guides on one side (in most printers, there's a little wiggle room), printing one side, and then putting the printed page back in the paper tray/feeder, pushed up against the same guides, and printing the second side.
 
@@ -199,23 +199,40 @@ Fold the other rectangular piece in half, so that it forms a booklet with "A qua
 
 Remove the backing from the tape. Place that  piece so that the large square photograph is on top of the booklet and the small rectangle wraps around it. Press to seal them together with the tape and form a new booklet. The sequence of pages should be the large photograph as a cover, then "As the electron bunches travel," "A quadrupole magnet has four powerful magnets," "A quadrupole magnet by itself," and "To correct this problem."
 
-# Step 31
+## Step 31
 
 Because of how they've been folded, each magnet now has been divided in to two large triangular regions opposite each other, and four small ones, which all come together in a point in the center.
 
 Place some tape on the non-printed side of each large triangle. What's "some" tape? Perhaps three pieces roughly outlining the outside of each triangle, but you don't need to be picky.
 
-# Step 32
+## Step 32
 
 Open the booklet to the first pair of pages, about the quadrupole magnet. Remove the backing on the tapes on the quadrupole magnet. Center it, with the line between the small triangles pointing along the fold in the page, so that one of the large triangles is attached to the left page, and one to the right. Press down to seal.
 
 Turn the page, and repeat the process for the sextupole magnet.
 
-# Step 33
+## Step 33
 
 At first the booklet will be a little hard to close--don't be afraid to press on it a bit to reinforce the folds in the magnets. 
 
 Use a paperclip to hold the book shut (it will bulge--that's OK). Set the book aside.
 
+# Undulator
 
+This is one of the most finicky and precise assembly sequences required for the book. If you have more than one person working on this project, the one who is better with precise craft work should do this part.
 
+## Step 34
+
+Cut the piece that says "pull" out of the Acetate page (the "slider") and the large plain rectangular item with no writing on it from the One-Sided Components page.
+
+## Step 35
+
+Place a strip of tape along each long edge. Make sure the tape doesn't hang over the edge, though.
+
+## Step 36
+
+Fold away from you along the lines. If you turn the piece over, you should now have a partial sleeve that the slider" can slide through. Check the fit--the piece should slide back and forth comfortably, but not have too much room to wiggle from side to side. If it doesn't adjust the folds you made accordingly. Remove the slider so that it doesn't 
+
+## Step 37
+
+At one end of the sleeve, put a piece of tape along one of the short sides. It should be long enough to go under both overhangs. Removde the backing, and seal the overhangs to the main piece on that end. This will

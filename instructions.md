@@ -269,4 +269,38 @@ Getting all of this right is, as we said earlier, finicky. It's quite likely the
 
 Another common problem is that the slider won't go in to the sleeve as far as it should. That usually means that there's a little bit of tape sealing the sleeve prematurely. Try sticking a ruler in to the folds under each overhang, pushing it back and forth to the stop. That will often clear out any obstructions, and if you try inserting the slider again, it may work better.
 
+# Log Book
 
+## Step 43
+
+Cut out the two elements from the Log Book page. Notice that one page has a tiny red circle in it; make a hole through that circle.
+
+## Step 44
+
+Fold each down the middle and stack so as to create a booklet with this order of pages: Cover, XAFS Spectroscopy, blank page, MX, blank page, Fluorescence Imaging, blank page with a tiny hole in it.
+
+## Step 45
+
+Use a stapler to staple twice along the fold. 
+
+## Step 46
+
+Cut out the two leaf-shaped pieces from the Acetate page. Cut a small hole in each where the circles indicate.
+
+On the last page of the Log Book, stack them with Calcium one on top. 
+
+Take a small screw and pass it through the holes in the leaves and the page. Use a nut on the other end. Tighten enough so that the leaves can be rotated, but tend to stay in place when they are.
+
+## Step 47
+
+Cut out the piece that says "lift to see structure" from the One-Sided Components page (the "diffraction pattern"). It has a small tilted square in the middle; cut it out and discard to make a hole.
+
+Cut out the irregularly shaped object (the "ion channel") from the Shaping Magnet Text and Cover page. The ion channel has lots of internal cuts indicated by red lines. Try to cut those out, but it is not crucial to get every one or to match them exactly. There is also a tilted square outlined in red in the center; that should be cut out and discarded, to make a hole matching the one in the diffraction pattern.
+
+## Step 48
+
+Place tiny pieces of tape (four 1/4" x 1/4" squares seem to work well) next to the square hole in the ion channel (on the printed side) and remove the backing. Place the diffraction pattern on top with its hole aligned with the hole in the ion channel, and press down. It doesn't matter which way you have the ion channel turned, as long as the hole matches.
+
+## Step 49
+
+Notice that one arm of the protein channel is a little longer and one is a little shorter, with the other two in between. 

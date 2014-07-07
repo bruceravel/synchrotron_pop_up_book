@@ -123,4 +123,4 @@ experiment.  This is **printed one-sided**.
 Here is links which allow you to download all of the pages in one
 click.  This zip file contains each individual page linked above.
 
- * [Zip file](https://s3.amazonaws.com/SynchrotronPopUpBook/allpages_photoshop.zip) (319 MB)
+ * [Zip file](https://s3.amazonaws.com/SynchrotronPopUpBook/allpages_photoshop.zip) (292 MB)

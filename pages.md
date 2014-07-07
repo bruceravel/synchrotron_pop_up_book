@@ -125,6 +125,6 @@ click.  The zip file contains each individual page linked above.  The
 PDF file contains the pages as one large file, with the pages in the
 order given above.
 
- * [Zip file](https://s3.amazonaws.com/SynchrotronPopUpBook/allpages_pdf.zip) (121 MB)
+ * [Zip file](https://s3.amazonaws.com/SynchrotronPopUpBook/allpages_pdf.zip) (114 MB)
  
- * [Single PDF file](https://s3.amazonaws.com/SynchrotronPopUpBook/allpages.pdf) (210 MB)
+ * [Single PDF file](https://s3.amazonaws.com/SynchrotronPopUpBook/allpages.pdf) (194 MB)

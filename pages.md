@@ -106,8 +106,8 @@ pouch.  They show photographs of actual end stations and of the actual
 instrumentation represented by the papercraft versions.  These are to
 be **printed two-sided** and can be printed on **normal** paper.
 
- * [Insert fronts](https://s3.amazonaws.com/SynchrotronPopUpBook/Inserts+Front.pdf) (11.2 MB)
- * [Insert backs](https://s3.amazonaws.com/SynchrotronPopUpBook/Inserts+Back.pdf) (19.7 MB)
+ * [Insert fronts](https://s3.amazonaws.com/SynchrotronPopUpBook/Inserts+Front.pdf) (5.6 MB)
+ * [Insert backs](https://s3.amazonaws.com/SynchrotronPopUpBook/Inserts+Back.pdf) (9.9 MB)
 
 ### Acetate page
 

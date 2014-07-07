@@ -181,7 +181,9 @@ The yellow frame is for the quadrupole magnet and the orange frame for the sextu
 
 Remove the backing from the pieces of tape. With the magnet and the corresponding frame both printed side up, place the magnet behind the corresponding frame, so that it's visible through the hole in the middle of the frame. This next step is magic, so read it carefully: attach the tape on the magnet tab to the **non-printed** side of the frame, approximately where the arrows in the diagram above show, so that the small rectangle at the end of the tab just overlaps the frame. 
 
-If you've done everything right, the entire assembly can be squashed flat so that the magnets show nicely through the hole in the frame, but the assembly can also be folded in half, as shown in the animation below {coming soon}.
+If you've done everything right, the entire assembly can be squashed flat so that the magnets show nicely through the hole in the frame, but the assembly can also be folded in half, as shown in the animation below.
+
+![Shaping magnet fold animation](assembly/ShapingMagnetFold.gif)
 
 ## Step 27
 
@@ -267,6 +269,8 @@ Test the undulator assembly!
 
 Turn page 2 back over, so you're looking at the printed side. Hold it in place on a flat surface somehow (eventually, it will be taped to chipboard, but don't do that yet). Pull the slider. You should see green through the center row of holes in the page, and purple through the rows above and below. You should also be able to slide the slider back and forth. See the animation below for what this should look like.
 
+![Undulator animation](assembly/UndulatorMovie.gif)
+
 Getting all of this right is, as we said earlier, finicky. It's quite likely the sleeve will not be aligned quite right the first time you try. That's OK--if you're using the tear-resistant paper and the special tape, you can pull the sleeve off of the paper. That will leave behind tape on either the sleeve or the paper, but if you rub at it with your finger you can get it to come off. Once you've done that, apply new tape and try again. Of course, it's up to you how much work you want to put in for the "perfect" result!
 
 Another common problem is that the slider won't go in to the sleeve as far as it should. That usually means that there's a little bit of tape sealing the sleeve prematurely. Try sticking a ruler in to the folds under each overhang, pushing it back and forth to the stop. That will often clear out any obstructions, and if you try inserting the slider again, it may work better.
@@ -311,6 +315,8 @@ Put a piece of tape along the end of the long arm. Remove the backing and bend t
 
 Put a piece of tape along each end of the remaining pair of arms. Bend them around and attach them to the middle of the loop formed by the first pair of arms. See the animation below for how it all fits together.
 
+![Assemble protein animation](assembly/ProteinFold.gif)
+
 ## Step 50
 
 Put two pieces of tape across the assembly as shown in the photo below. Remove the backing and attach the assembly to the blank page of the Log Book opposite the MX text, oriented so that the "lift" instructions are facing the right way. Push down **hard**.
@@ -318,6 +324,8 @@ Put two pieces of tape across the assembly as shown in the photo below. Remove t
 ## Step 51
 
 Test. This element is meant to be pulled up as shown in the animation below. If the tape has all been sealed well, it won't come undone under enough force to stretch open the ion channel. 
+
+![Ion Channel Pull animation](assembly/IonChannelPull.gif)
 
 ## Step 52
 

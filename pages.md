@@ -101,10 +101,10 @@ one-sided** and on **tear-resistant** paper.
 
 ### Inserts
 
-These contain two copies each of the inserts for each experimental
-pouch.  They show photographs of actual end stations and of the actual
-instrumentation represented by the papercraft versions.  These are to
-be **printed two-sided** and can be printed on **normal** paper.
+These contain the inserts for each experimental pouch.  They show
+photographs of actual end stations and of the actual instrumentation
+represented by the papercraft versions.  These are to be **printed
+two-sided** and can be printed on **normal** paper.
 
  * [Insert fronts](https://s3.amazonaws.com/SynchrotronPopUpBook/Inserts+Front.pdf) (5.6 MB)
  * [Insert backs](https://s3.amazonaws.com/SynchrotronPopUpBook/Inserts+Back.pdf) (9.9 MB)

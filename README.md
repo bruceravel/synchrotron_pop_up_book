@@ -4,6 +4,9 @@
  * **Design and Artwork by:** Linnea Russell
  * **Concept and Text by:** Scott Calvin and Bruce Ravel
 
+[![DOI](https://zenodo.org/badge/15446/bruceravel/synchrotron_pop_up_book.svg)](https://zenodo.org/badge/latestdoi/15446/bruceravel/synchrotron_pop_up_book)
+
+
 This web site contains the source materials and building instructions
 for a pop-up book about the NSLS-II synchtotron.
 

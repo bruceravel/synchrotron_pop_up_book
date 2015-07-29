@@ -67,7 +67,7 @@ You should now have three pouches. Each can be open and closed repeatedly by ins
 
 ## Step 9
 
-Cut the individual cards out of the "Inserts" page. Slide each one in to the pouch with the massing label.
+Cut the individual cards out of the "Inserts" page. Slide each one in to the pouch with the matching label.
 
 ## Step 10
 
@@ -81,7 +81,7 @@ In the next several steps, we're going to make several of the experimental compo
 
 ## Step 11
 
-Fold the tab on the plant toward you, ans slide the plant in to the green pouch. Fold the tab on the solar cell sample toward you, and slide in to the blue pouch.
+Fold the tab on the plant toward you, and slide the plant in to the green pouch. Fold the tab on the solar cell sample toward you, and slide in to the blue pouch.
 
 ## Step 12
 
